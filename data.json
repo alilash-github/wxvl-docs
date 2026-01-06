@@ -16204,5 +16204,17 @@
     "https://mp.weixin.qq.com/s/t8HcCzLYKDHggG0z8YbMNw": "推广漏洞的特殊思路 | 通杀国内主流互联网厂商的推广漏洞思路分享",
     "https://mp.weixin.qq.com/s/Sm9IKBikHGTTZ3gP4KIx2Q": "端口扫描 + 指纹识别 + POC 验证｜cscan 一站式资产安全扫描平台",
     "https://mp.weixin.qq.com/s/QdSTNHb3XgCUbyMqo1ucfw": "CVSS 评分 10.0！满分高危漏洞 React2Shell 来袭，你的 Next.js 服务可能正在挖矿！",
-    "https://mp.weixin.qq.com/s/9guK9gL82gdb7nI3FTxVxw": "漏洞复现 | B-LINK AC1900 V1.0.2 命令执行漏洞"
+    "https://mp.weixin.qq.com/s/9guK9gL82gdb7nI3FTxVxw": "漏洞复现 | B-LINK AC1900 V1.0.2 命令执行漏洞",
+    "https://mp.weixin.qq.com/s/j9Z-OCPlBxwK0vv_DD_42w": "vCenter图形化漏洞利用工具",
+    "https://mp.weixin.qq.com/s/2AkHznQlN5LfMmQKos561w": "【已复现】jsPDF 曝高危漏洞：可窃取服务器密钥及配置文件 (CVE-2025-68428)",
+    "https://mp.weixin.qq.com/s/n2b-fMLDoy_mQE0WvnY3aA": "SQL Server数据库，漏洞利用与数据勒索风险急剧增加",
+    "https://mp.weixin.qq.com/s/7N0LqDINUbL-32-__fUH_A": "汉王e脸通综合管理平台 getFirstEmp.do SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/R6mb4g1jwcUDZFvju-GEPg": "Shiro漏洞利用工具 -- ShiroEXP（1月4日更新）",
+    "https://mp.weixin.qq.com/s/wh3DzY9jEZIuor4AUNl-NQ": "【高危漏洞预警】Dify API密钥明文暴露漏洞CVE-2025-67732",
+    "https://mp.weixin.qq.com/s/1Tn8oNvlozv9ebsoZbelbQ": "漏洞挖掘实战系列（第2期）：Web专项（上） 注入类+文件类漏洞，吃透60%分值",
+    "https://mp.weixin.qq.com/s/cGGJ0ezy1Ee6HhvvkR0lKw": "【首发POC】n8n Python代码节点沙箱绕过导致系统命令执行 (CVE-2025-68668)",
+    "https://mp.weixin.qq.com/s/PgWDOBPchd7uYQvKaWzYPg": "React2Shell 的 CVE-2025-55182 深入技术分析",
+    "https://mp.weixin.qq.com/s/hPnr3ktQtL4VHZ8zAOrHyA": "帆软bi反序列漏洞利用工具",
+    "https://mp.weixin.qq.com/s/adAQQHIeCpBuwzeGAVdeFg": "2025年度十大 Web 应用系统高危漏洞盘点",
+    "https://mp.weixin.qq.com/s/NHyWqcCC9CENaU3rUBnhrA": "CTF Pwn模块系列分享（三）：溢出基础与ret2text漏洞利用"
 }
