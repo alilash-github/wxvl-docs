@@ -16297,5 +16297,21 @@
     "https://mp.weixin.qq.com/s/6Y2Q9oZ9IS9mWTC9iEOQRw": "昂捷CRM系统存在任意文件读取漏洞 附POC",
     "https://mp.weixin.qq.com/s/MZ6mO1t439N2OM5vbKTUAQ": "漏洞预警 | PublicCMS命令注入漏洞",
     "https://mp.weixin.qq.com/s/oLifiaCiKhBqRT3YQS4N8g": "某次漏洞排查引起的漏洞",
-    "https://mp.weixin.qq.com/s/9fBFQxdUxFoRMJNDe-l2Lw": "安全测试效率翻倍！自动化资产测绘+漏洞扫描"
+    "https://mp.weixin.qq.com/s/9fBFQxdUxFoRMJNDe-l2Lw": "安全测试效率翻倍！自动化资产测绘+漏洞扫描",
+    "https://mp.weixin.qq.com/s/hfJGax9hV3BG9dOKIQOqtQ": "D-Link老款DSL路由器被曝在野利用漏洞",
+    "https://mp.weixin.qq.com/s/WgT1-3_DfwGOJ-EZx12s4A": "jsPDF 高危漏洞可窃取服务器密钥及配置文件",
+    "https://mp.weixin.qq.com/s/J5iqZMu3rYfDynpIKO6QFw": "Ni8mare高危漏洞曝光：n8n自动化平台面临未授权全面接管风险",
+    "https://mp.weixin.qq.com/s/72-wGfQNZT7hmZ_v8ccnQg": "【已复现】CVSS 10.0 满分漏洞，n8n 未授权文件访问漏洞可远程代码执行(CVE-2026-21858)",
+    "https://mp.weixin.qq.com/s/gRI-G36OS3FbAffFnkvCTw": "Veeam 修复备份恢复软件中的一个9分高危RCE漏洞",
+    "https://mp.weixin.qq.com/s/LgAI6Ccnk0ZWzecEDzSSJQ": "国内用户需警惕黑客正积极利用老款D-Link DSL路由器中的关键远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/0ODnsyttQICtXtzakj7DYw": "CVE-2025-60262：H3C无线设备严重配置错误，黑客可控制该设备",
+    "https://mp.weixin.qq.com/s/NH1SQHsOvlHhtpxOjqegEw": "我是如何发现一个 Windows RCE 的",
+    "https://mp.weixin.qq.com/s/dvh7HGKH_6FVmn03LEQoMg": "「攻防演练」某采购系统1day任意文件下载到RCE",
+    "https://mp.weixin.qq.com/s/738H_a30VQZJ5fq7V_LoIA": "M-SEC 漏洞社区福利活动重磅来袭！",
+    "https://mp.weixin.qq.com/s/qnXWZ7Dj7arOg5SVG-xBFg": "蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、Burp插件、一键利用",
+    "https://mp.weixin.qq.com/s/Vufw1SzvJNa9ArLecqnlAQ": "漏洞挖掘实战系列（第 4 期）：Pwn 专项（上）——从看懂到 getshell",
+    "https://mp.weixin.qq.com/s/gCVLDBcv3A6cHnm62pdyTg": "驰骋BPM低代码开发平台 RichUploadFile 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/mJtd8lPrU15Pt-aBvmX1UQ": "京东云路由器曝严重漏洞，黑客可直接获取 root 权限",
+    "https://mp.weixin.qq.com/s/6U78YnlP7S8oacRS7bELQg": "漏洞复现 | 东方通TongWeb upload接口存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/PFAwt0BJGitiV6j5Rojk7w": "未授权漏洞渗透技巧总结分享（十）"
 }
