@@ -16418,5 +16418,7 @@
     "https://mp.weixin.qq.com/s/xHdEhX88wiKrjfTHpFqnmQ": "漏洞复现 | 东方通TongWeb selectApp.jsp 存在任意文件上传漏洞",
     "https://mp.weixin.qq.com/s/845EVdBSVBJHLNSJT71W-g": "2026年需重点关注的3类高价值漏洞",
     "https://mp.weixin.qq.com/s/VttDCTBhZUGlyJDh6WzTgQ": "Web篇 | 手把手拆解：小程序∕Web端加密鉴权绕过案例全复现",
-    "https://mp.weixin.qq.com/s/CAp7sX2hp_uUPucKyAy_gA": "ChatGPT漏洞可致攻击者窃取Gmail、Outlook和GitHub敏感数据"
+    "https://mp.weixin.qq.com/s/CAp7sX2hp_uUPucKyAy_gA": "ChatGPT漏洞可致攻击者窃取Gmail、Outlook和GitHub敏感数据",
+    "https://mp.weixin.qq.com/s/2QiGOOH1Szw6YT3cl1qFcA": "Ruoyi单应用版本漏洞合集",
+    "https://mp.weixin.qq.com/s/L0yYNvi0E2o45Q4WGwCSiQ": "复现pgAdmin4 <= 9.10(CVE-2025-13780)漏洞利用"
 }
