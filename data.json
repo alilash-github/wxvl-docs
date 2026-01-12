@@ -16497,5 +16497,7 @@
     "https://mp.weixin.qq.com/s/EV0ozNPsX5GBNBYp-TtNEA": "CVE-2026-22184 (CVSS 9.3)：zlib 严重漏洞导致全局缓冲区溢出",
     "https://mp.weixin.qq.com/s/O0797gUJdM5e50pPDV3Gmw": "安全热点周报：D-Link 老旧 DSL 路由器曝新漏洞，正遭黑客活跃攻击",
     "https://mp.weixin.qq.com/s/zJaHUYFOuo0qs_QAHCks_g": "【接口漏洞第五章第一节】当API“过度热心”：批量赋值漏洞的狩猎笔记",
-    "https://mp.weixin.qq.com/s/bY4X_NbToiE36oXSVFrqPw": "【玄域】App系列漏洞靶场已更新-新增3个App版本的JWT系列靶场"
+    "https://mp.weixin.qq.com/s/bY4X_NbToiE36oXSVFrqPw": "【玄域】App系列漏洞靶场已更新-新增3个App版本的JWT系列靶场",
+    "https://mp.weixin.qq.com/s/_3rgR74lYIoxdgu-RbMuRw": "n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0)",
+    "https://mp.weixin.qq.com/s/-KHeodmYpguuA34OstX4kw": "CVE-2025-68428_PoC"
 }
