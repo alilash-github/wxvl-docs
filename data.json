@@ -16639,5 +16639,7 @@
     "https://mp.weixin.qq.com/s/yUzINvq_nFsWHmkDDNcJcA": "1day | Apache Struts XML外部实体注入漏洞(CVE-2025-68493)",
     "https://mp.weixin.qq.com/s/lkj2G5HhYyv7-vTiq4A-pA": "【成功复现】Apache Struts XML外部实体注入漏洞(CVE-2025-68493)",
     "https://mp.weixin.qq.com/s/fYbsIINfX9bWrHt3cCy09Q": "【漏洞检测POC】Apache Struts XML外部实体注入漏洞（CVE-2025-68493）",
-    "https://mp.weixin.qq.com/s/eqjUxhBJpfyiGuN9nL5-8g": "漏洞挖掘实战系列（第11期）：漏洞挖掘思维模型 从“没思路”到“稳定挖洞”的完整方法论"
+    "https://mp.weixin.qq.com/s/eqjUxhBJpfyiGuN9nL5-8g": "漏洞挖掘实战系列（第11期）：漏洞挖掘思维模型 从“没思路”到“稳定挖洞”的完整方法论",
+    "https://mp.weixin.qq.com/s/1ZorRKtuEcDa58ZGJULtEw": "CVE-2025-53136 通过竞争条件泄露内核信息",
+    "https://mp.weixin.qq.com/s/b44MRFIwb-RbU4fs_2wLeQ": "CVE-2025-64155：Fortinet FortiSIEM 远程 Root 漏洞已存在三年"
 }
