@@ -16670,5 +16670,6 @@
     "https://mp.weixin.qq.com/s/TRJ79gWpK6ySL8eWSCNlfQ": "0117.我是如何发现 Google 表单漏洞的（重复内部漏洞 - 已修复）",
     "https://mp.weixin.qq.com/s/UCWuVh9FyPK4UuHDSnQyTw": "Microsoft SQL Server 存在允许攻击者通过网络提升权限漏洞",
     "https://mp.weixin.qq.com/s/aQPGjD_lgc2yeiRvlh21tQ": "src | 奇怪的任意用户重置密码组合拳漏洞",
-    "https://mp.weixin.qq.com/s/NpWOsqNUORqxRr2mbrBPVg": "【安全圈】Apache Struts 2曝高危漏洞：攻击者可窃取敏感数据"
+    "https://mp.weixin.qq.com/s/NpWOsqNUORqxRr2mbrBPVg": "【安全圈】Apache Struts 2曝高危漏洞：攻击者可窃取敏感数据",
+    "https://mp.weixin.qq.com/s/Rc9TkUvxsM7arEZH0xVGwg": "【高危漏洞预警】React Router目录遍历漏洞CVE-2025-61686"
 }
