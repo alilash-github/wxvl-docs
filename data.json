@@ -16626,5 +16626,18 @@
     "https://mp.weixin.qq.com/s/O25H79ucdyy02eK-c_Qg9w": "漏洞预警 | jsPDF路径遍历漏洞",
     "https://mp.weixin.qq.com/s/JxRtiE-sFNOEXTVr2o4ynw": "漏洞预警 | 东胜物流软件文件删除漏洞",
     "https://mp.weixin.qq.com/s/pFh0cr075M0AfeYlbEkAYQ": "记一次SRC支付漏洞实战",
-    "https://mp.weixin.qq.com/s/vSN5ZYJ6fmravzD3_-kX_Q": "Edusrc 垂直越权通杀漏洞实战 & 985证书站实战案例"
+    "https://mp.weixin.qq.com/s/vSN5ZYJ6fmravzD3_-kX_Q": "Edusrc 垂直越权通杀漏洞实战 & 985证书站实战案例",
+    "https://mp.weixin.qq.com/s/eS-FvpSFjOHKXe3N3f1XOw": "命令注入警报：LoadMaster 和 MOVEit WAF 存在高危漏洞",
+    "https://mp.weixin.qq.com/s/eVA8QMlPBfaOKb_l5vuyug": "CVE-2025-55182 漏洞检测与利用工具（GUI版）",
+    "https://mp.weixin.qq.com/s/0FhKQ3o-o0FO13nF1MTuIA": "Shiro漏洞利用工具，更新V0.2！",
+    "https://mp.weixin.qq.com/s/m7oXfnmFDXr5LQQ0PLjtDQ": "Edusrc 垂直越权通杀漏洞实战 & 985证书站实战案例",
+    "https://mp.weixin.qq.com/s/_mydGg7gIcMOzo0sCTAmzg": "Struts2 XXE漏洞（CVE-2025-68493）分析及复现",
+    "https://mp.weixin.qq.com/s/RLPkb1Uk3h1UoqdPJYxElg": "nuclei POC辅助编写（管理）工具 -- nucssist（1月12日更新）",
+    "https://mp.weixin.qq.com/s/-KOr55KBNLuRIL4DOKFLFg": "【玄域】Web∕App靶场 | 面试题库 | 实战漏洞报告 | 体系化学习",
+    "https://mp.weixin.qq.com/s/3d0a67AFBIlhNvHPlA8aKA": "微软桌面窗口管理器零日漏洞已被利用",
+    "https://mp.weixin.qq.com/s/fF6zvYGfgxgXeDBq-bGxtA": "深度强化学习求解虚拟网络映射（Energy efcient resource allocation based on virtual  network embedding for IoT data generation）",
+    "https://mp.weixin.qq.com/s/yUzINvq_nFsWHmkDDNcJcA": "1day | Apache Struts XML外部实体注入漏洞(CVE-2025-68493)",
+    "https://mp.weixin.qq.com/s/lkj2G5HhYyv7-vTiq4A-pA": "【成功复现】Apache Struts XML外部实体注入漏洞(CVE-2025-68493)",
+    "https://mp.weixin.qq.com/s/fYbsIINfX9bWrHt3cCy09Q": "【漏洞检测POC】Apache Struts XML外部实体注入漏洞（CVE-2025-68493）",
+    "https://mp.weixin.qq.com/s/eqjUxhBJpfyiGuN9nL5-8g": "漏洞挖掘实战系列（第11期）：漏洞挖掘思维模型 从“没思路”到“稳定挖洞”的完整方法论"
 }
