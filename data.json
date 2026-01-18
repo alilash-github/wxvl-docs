@@ -16739,5 +16739,6 @@
     "https://mp.weixin.qq.com/s/mIRWVqNzCk7yoY2bIkLsdQ": "漏洞科普——React Server Components 拒绝服务漏洞（CVE-2025-67779）",
     "https://mp.weixin.qq.com/s/FvjY4VXy2RnktgEzPnrw1A": "通过 AppleKeyStore 引发的 SEP 固件崩溃 - iOS∕macOS 26.x 内核漏洞",
     "https://mp.weixin.qq.com/s/3XKSfJTB5yR4XVMLDtw4vg": "渗透测试利器・供应链组件投毒隐患：DNSLog 与 Webhook 平台盘点（无回显漏洞数据外带指南）",
-    "https://mp.weixin.qq.com/s/OiGevLf5PhkUGZcrDq0ekQ": "【安全圈】AMD Zen 1~5全系CPU曝出StackWarp漏洞"
+    "https://mp.weixin.qq.com/s/OiGevLf5PhkUGZcrDq0ekQ": "【安全圈】AMD Zen 1~5全系CPU曝出StackWarp漏洞",
+    "https://mp.weixin.qq.com/s/PlmmAvhgmIgFQbdcKkbnrQ": "一次从0到1的逻辑漏洞挖掘之旅"
 }
