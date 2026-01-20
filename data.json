@@ -16884,5 +16884,6 @@
     "https://mp.weixin.qq.com/s/n33dKB1d9Lh9OdyoO3Nwag": "WEB漏洞扫描器（新增企业版）Invicti-Professional-V26.10.0（自动化爬虫扫描漏洞）更新",
     "https://mp.weixin.qq.com/s/cPMFl-eQdH4AnUvKjbCKSA": "东胜物流软件GetPrintInfo接口存在敏感信息泄露漏洞 附POC",
     "https://mp.weixin.qq.com/s/aHJ1oDTdTj8UHvpHoQWiqQ": "JWT漏洞原理、攻击、防御全解析",
-    "https://mp.weixin.qq.com/s/6jPm01eFstPD9PoKgPnXvw": "新型Kerberos中继攻击利用DNS CNAME记录绕过防护措施 - PoC已发布"
+    "https://mp.weixin.qq.com/s/6jPm01eFstPD9PoKgPnXvw": "新型Kerberos中继攻击利用DNS CNAME记录绕过防护措施 - PoC已发布",
+    "https://mp.weixin.qq.com/s/LdVOZQlsZNxV9N-ejmYjkw": "大小写即漏洞：sqli-labs 第 27 ∕ 27a 关通关全解析"
 }
