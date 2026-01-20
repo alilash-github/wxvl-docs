@@ -16821,5 +16821,13 @@
     "https://mp.weixin.qq.com/s/Fd3WRAO6All-iKD-kHZZLA": "CNNVD：人工智能重要漏洞通报（2026年第一期）",
     "https://mp.weixin.qq.com/s/d-F4N_YfiGcQ9gjWcRJLog": "【安全圈】全球恶意广告劫持DNS漏洞，日均欺诈百万用户",
     "https://mp.weixin.qq.com/s/vHyPpvfDS2fnXcF-n7z-qw": "横跨数十年的漏洞与新型堆破坏：glibc 重大安全缺陷曝光",
-    "https://mp.weixin.qq.com/s/T3vtmueTfcA52xyb5GfI6A": "近期0day+POC|Windows RCE 0day漏洞利用|最后一个宣称通杀Android12–16"
+    "https://mp.weixin.qq.com/s/T3vtmueTfcA52xyb5GfI6A": "近期0day+POC|Windows RCE 0day漏洞利用|最后一个宣称通杀Android12–16",
+    "https://mp.weixin.qq.com/s/iVj33mTkm1ItEVdExKEprg": "新型 Kerberos 中继攻击利用 DNS CNAME 绕过缓解措施——POC已发布",
+    "https://mp.weixin.qq.com/s/2uOAkz5LnPDd-puFfxc2hg": "中国人民公安大学：浅析车联网漏洞挖掘技术",
+    "https://mp.weixin.qq.com/s/KpOgJqpQC0WpffV2EGj8mw": "漏洞预警 | Apache Struts XXE漏洞",
+    "https://mp.weixin.qq.com/s/y8wYnzM8gR2OvgoM8esnLg": "CVE-2025-60188 Atarim 插件身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s/VoDsZmLIKNTLajTPcBi6ZQ": "流量之眼 - 智能被动漏洞扫描平台",
+    "https://mp.weixin.qq.com/s/cif79qvGRPaK6r43oN3TBw": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/SkYyUTxHMC2kYYBYoQrL9g": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/5ze4qDmKflvfq5UYnS2JVg": "漏洞情报(已验证) | 深科特LEAN MES系统FileSync.ashx 存在文件读取漏洞"
 }
