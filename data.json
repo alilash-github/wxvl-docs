@@ -16943,5 +16943,11 @@
     "https://mp.weixin.qq.com/s/P-zBho0S5gxUgX8CVjTVMw": "Cloudflare 修复可绕过 WAF 访问源服务器的 ACM 验证漏洞",
     "https://mp.weixin.qq.com/s/TgnsahDlk47F73-kVEg0-w": "Anthropic MCP Git 服务器漏洞可用于访问文件和执行代码",
     "https://mp.weixin.qq.com/s/6qGhmaD7lpwa1c9xJq66GA": "Cloudflare 0Day漏洞可绕过防护直接访问任意主机服务器",
-    "https://mp.weixin.qq.com/s/kkLsRsc_IrP8gkmfUe-BBg": "【已复现】GNU InetUtils telnetd 远程身份认证绕过漏洞(QVD-2026-4408)安全风险通告"
+    "https://mp.weixin.qq.com/s/kkLsRsc_IrP8gkmfUe-BBg": "【已复现】GNU InetUtils telnetd 远程身份认证绕过漏洞(QVD-2026-4408)安全风险通告",
+    "https://mp.weixin.qq.com/s/ZORMIVuNYgYPFZbxshGw7Q": "Cloudflare WAF 零日漏洞：可访问全球任何主机",
+    "https://mp.weixin.qq.com/s/cRPHl0FEL3kDkyQZ7GYo7g": "攻防技巧|快速高效挖掘.net系统漏洞",
+    "https://mp.weixin.qq.com/s/BMcWmEx-eOHcnxLR7adA9g": "常见OAuth 漏洞：未验证token",
+    "https://mp.weixin.qq.com/s/678gSaJ-b3f2AgKK1A813Q": "【高危漏洞预警】GNU InetUtils telnetd远程认证绕过漏洞CVE-2026-24061",
+    "https://mp.weixin.qq.com/s/-fxvgoVz5GQU6mOzozYG6w": "缓解Web应用程序漏洞从了解OWASP Top 10开始",
+    "https://mp.weixin.qq.com/s/hVSCK-VKXjF3gexImuTLjA": "最新高危漏洞威胁情报合集 (2026-01-21）"
 }
