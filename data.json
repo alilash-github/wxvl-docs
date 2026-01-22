@@ -16950,5 +16950,15 @@
     "https://mp.weixin.qq.com/s/678gSaJ-b3f2AgKK1A813Q": "【高危漏洞预警】GNU InetUtils telnetd远程认证绕过漏洞CVE-2026-24061",
     "https://mp.weixin.qq.com/s/-fxvgoVz5GQU6mOzozYG6w": "缓解Web应用程序漏洞从了解OWASP Top 10开始",
     "https://mp.weixin.qq.com/s/hVSCK-VKXjF3gexImuTLjA": "最新高危漏洞威胁情报合集 (2026-01-21）",
-    "https://mp.weixin.qq.com/s/uvGBBrunRX0YfXPc0tzWJw": "能注入 ≠ 理解漏洞：sqli-labs 第 29 关的真正考点"
+    "https://mp.weixin.qq.com/s/uvGBBrunRX0YfXPc0tzWJw": "能注入 ≠ 理解漏洞：sqli-labs 第 29 关的真正考点",
+    "https://mp.weixin.qq.com/s/-0zSGpUQHYoSOTuUaxUrHQ": "漏洞预警 | OpenCode远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/SYJIrOezFBMMmNVoeCPLYw": "Windows Telephony 服务权限提升漏洞（CVE-2026-20931）",
+    "https://mp.weixin.qq.com/s/XIgbXhuy-8iB6TNHR5QDXg": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/9_TUGRuTHWbjWV4Iy6reTA": "Webpack打包js.map泄露导致的通杀0day",
+    "https://mp.weixin.qq.com/s/fOibkfQKvN8Ics33uLqV9g": "漏洞情报(已验证) | 友数聚科技-CPAS审计管理系统 存在文件读取漏洞",
+    "https://mp.weixin.qq.com/s/8Qbza74It7C2a3KHd0PjNg": "经典的前端鉴权绕过漏洞",
+    "https://mp.weixin.qq.com/s/dU0G9lyFItVrY2w4QbzflQ": "新Shiro反序列化漏洞一站式综合利用工具",
+    "https://mp.weixin.qq.com/s/fHTgD2xXT5ART3_6iBRFWg": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/mGeC5uOsD9dGqjyyDmORaw": "ShiroExploit_通过另类手法实现Shiro一把梭",
+    "https://mp.weixin.qq.com/s/Aserf-XcM_VDo4teW6FDiA": "CVE-2026-21440 AdonisJS框架的关键路径遍历漏洞"
 }
