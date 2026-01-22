@@ -17033,5 +17033,6 @@
     "https://mp.weixin.qq.com/s/BJiz2NU5xP6g2ix9BefFHg": "大华智能物联ICC综合管理平台evo-apigw∕evo-cirs∕file∕download接口存在任意文件读取漏洞 附POC",
     "https://mp.weixin.qq.com/s/BXrnI0sZM92SATpmUdYkTA": "他们说这不可能，但我用 Claude 聊天就逆向提取了商业扫描器全部漏洞规则",
     "https://mp.weixin.qq.com/s/vgRuAGD7ZCehLka6qOevAw": "漏洞复现 || Mailpit服务端请求伪造",
-    "https://mp.weixin.qq.com/s/cLYZnYwasBNTTzHB82t9Mg": "特斯拉遭黑客攻击，37个零日漏洞在Pwn2Own Automotive 2026大会上被演示。"
+    "https://mp.weixin.qq.com/s/cLYZnYwasBNTTzHB82t9Mg": "特斯拉遭黑客攻击，37个零日漏洞在Pwn2Own Automotive 2026大会上被演示。",
+    "https://mp.weixin.qq.com/s/p0W9O4xwN_e1LCRAzg9b9g": "告别手动构造 Payload：Burp 文件上传漏洞测试插件，1000 + 绕过 Payload 全解析|工具分享"
 }
