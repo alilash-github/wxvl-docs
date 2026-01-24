@@ -17105,5 +17105,8 @@
     "https://mp.weixin.qq.com/s/4PMH2yw8JaxTnM0_-YC13w": "CISA更新KEV目录，新增四个正在被积极利用的软件漏洞",
     "https://mp.weixin.qq.com/s/RqvfzBLB1A47WTJlnu2Jbw": "苹果第二大代工厂立讯精密疑机密数据外泄；GPT-5.2可规模化开发0Day漏洞利用程序 | FreeBuf周报",
     "https://mp.weixin.qq.com/s/m26ce6CYk87l-xBxr4MJ3w": "MindsDB 文件路径处理漏洞预警：未授权信息泄露与拒绝服务风险",
-    "https://mp.weixin.qq.com/s/N3xr4HJsZOK80Bh9C3oCCA": "从工单到Shell:利用PHP过滤器和CNEXT攻击osTicket(CVE-2026-22200)"
+    "https://mp.weixin.qq.com/s/N3xr4HJsZOK80Bh9C3oCCA": "从工单到Shell:利用PHP过滤器和CNEXT攻击osTicket(CVE-2026-22200)",
+    "https://mp.weixin.qq.com/s/fCToUaR-iSciYZ6uu8D3VQ": "CVE-2026-24061：GNU InetUtils Telnetd 身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s/A-wQSZ_AwoGeZlLF_h7fDg": "拆解 AI Skills 的五大逻辑漏洞与防御实践",
+    "https://mp.weixin.qq.com/s/7SinEMKajtsgs7biytJ_1Q": "Linux Telnetd 远程代码执行！靶场镜像"
 }
