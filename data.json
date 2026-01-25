@@ -17111,5 +17111,6 @@
     "https://mp.weixin.qq.com/s/7SinEMKajtsgs7biytJ_1Q": "Linux Telnetd 远程代码执行！靶场镜像",
     "https://mp.weixin.qq.com/s/TIw8j1MYCHIE5Hsxm7h_MA": "蓝凌EKP系统接口thirdImSyncForKKWebService接口存在任意文件读取漏洞",
     "https://mp.weixin.qq.com/s/8cI1JjOPms573PRTZwYitQ": "StackWarp漏洞为什么不能影响海光C86",
-    "https://mp.weixin.qq.com/s/hm2Il1-KceEPg8uVnYxWWg": "快云服务器助手 filemana.aspx∕GetDetail 接口存在任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s/hm2Il1-KceEPg8uVnYxWWg": "快云服务器助手 filemana.aspx∕GetDetail 接口存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/EBJ2iR1LDb0lSJxzv9tleQ": "一个整数溢出引发的全球安全危机：CVE-2022-22822深度解析"
 }
