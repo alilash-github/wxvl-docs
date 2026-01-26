@@ -17156,5 +17156,12 @@
     "https://mp.weixin.qq.com/s/QBEuBgLtMEHw4lhqh_Z1tw": "新中大ERP企业管理软件 NGInterface SQL注入漏洞",
     "https://mp.weixin.qq.com/s/q2nSSGW0Et1X8qFJZesG0Q": "AI Network Security | 某厂商超1.1万台防火墙面临遭自动化漏洞攻击！华为星河AI网络安全已经支持对漏洞攻击检测",
     "https://mp.weixin.qq.com/s/dGmXP12pAojMHe4vXB_rUA": "【漏洞情报】【0day】织梦DedeCMS 0click劫持导致的前台rce getshell",
-    "https://mp.weixin.qq.com/s/1H2uL8OG_droMBMRnxVa4Q": "CVE-2025-38352 Part 1 - 在野利用的 Android Kernel 竞争 UAF 分析与 PoC"
+    "https://mp.weixin.qq.com/s/1H2uL8OG_droMBMRnxVa4Q": "CVE-2025-38352 Part 1 - 在野利用的 Android Kernel 竞争 UAF 分析与 PoC",
+    "https://mp.weixin.qq.com/s/x4WQc2bc9ARgA_QT7ZI27w": "星图实验室接棒玄武实验室，完成底层密码学库漏洞的最终修复",
+    "https://mp.weixin.qq.com/s/Ddpnhu8gyF1wuCya6Jq8hg": "CVE-2026-22686：AI代理沙箱的完美逃逸",
+    "https://mp.weixin.qq.com/s/p_bjUbHdQoIkQDWrbH_5FA": "DudeSuite 漏洞播报 全网漏洞早知道【20260126】",
+    "https://mp.weixin.qq.com/s/QeTajwMfx-Ql-bY5-dR-dg": "CVE-2025-38352 Part 2 - 无需内核补丁延长竞争窗口",
+    "https://mp.weixin.qq.com/s/QyGJPErsLR9L-ErekZ4IfQ": "VMware vCenter Server 远程代码执行漏洞安全预警（CVE-2024-37079）",
+    "https://mp.weixin.qq.com/s/GE5AXK2ut_OfelGAqpUJxQ": "Android APP客户端漏洞挖掘思路（【补天白帽黑客城市沙龙-长沙站】）",
+    "https://mp.weixin.qq.com/s/ZYvKrB7yBnETCiGzmkZiQA": "CVE-2025-38352 Part 3 - 揭开 Chronomaly：从竞态窗口到 Root 提权"
 }
