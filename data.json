@@ -17312,5 +17312,7 @@
     "https://mp.weixin.qq.com/s/5vYMRLYE_Y3UoxST9DAKZw": "OpenSSL中已修复高危远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/lnXRMkzdzkUBL25g9HWxjg": "Cloudflare曝零日漏洞：利用证书验证路径可绕过WAF访问任意源站",
     "https://mp.weixin.qq.com/s/bFcBGQbBXe0lxFTaPXsotw": "安全通告丨网络安全漏洞通告（2026年1月）",
-    "https://mp.weixin.qq.com/s/0ELPiwYJSI_aduU2lly2YA": "腾达Tenda 路由器存在敏感信息泄露漏洞 附POC"
+    "https://mp.weixin.qq.com/s/0ELPiwYJSI_aduU2lly2YA": "腾达Tenda 路由器存在敏感信息泄露漏洞 附POC",
+    "https://mp.weixin.qq.com/s/QWEx4DuMWJXVuJE5M9DxFw": "漏洞预警 | 英赛特互联网客户服务平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/07mFCKRNe18Tfc2RDZXNDg": "Chrome 144版本发布：修复10项安全漏洞，并修补V8引擎的危险缺陷"
 }
