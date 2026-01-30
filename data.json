@@ -17388,5 +17388,17 @@
     "https://mp.weixin.qq.com/s/LAI7MSNLfhI7GB8fi6z3nA": "谷歌警告WinRAR必须更新！漏洞正被黑客疯狂利用：已有大量用户中招",
     "https://mp.weixin.qq.com/s/Sg7Qei0LZTgc7cuN_fPDzA": "关于开展2026年度工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）专家征集工作的通知",
     "https://mp.weixin.qq.com/s/Ye5xstDmrQVJ1d4o5ZLwzg": "【高危漏洞预警】Dokploy命令注入漏洞CVE-2026-24841",
-    "https://mp.weixin.qq.com/s/6dbH5lmWHEQHOJhivj7lEQ": "信息安全漏洞周报【第058期】"
+    "https://mp.weixin.qq.com/s/6dbH5lmWHEQHOJhivj7lEQ": "信息安全漏洞周报【第058期】",
+    "https://mp.weixin.qq.com/s/BQ_ODcsJyCHurVeZl4bR5Q": "GNU Inetutils Telnetd 认证绕过漏洞检测工具（CVE-2026-24061）1月28日更新",
+    "https://mp.weixin.qq.com/s/PM-8fL98qmAVM0c1qJ_hlA": "CVE-2022-4223 pgAdmin = 6.16 未授权命令执行漏洞",
+    "https://mp.weixin.qq.com/s/lWrMvRHJz7XZFILqV-Pvyg": "通过沙箱逃逸在 n8n 上实现远程代码执行 - CVE-2026-1470 和 CVE-2026-0863",
+    "https://mp.weixin.qq.com/s/SzVM74aihSiJSGP684TChA": "SolarWinds 修复四个严重漏洞，可导致未认证RCE和认证绕过",
+    "https://mp.weixin.qq.com/s/L0AWjlbg7sqQxum0jes6RA": "【免费领】Android系统漏洞实战权威教程",
+    "https://mp.weixin.qq.com/s/BWKv_9AQ7nVNr3Ab19LQzw": "【高危漏洞预警】WinRAR 存在目录穿越漏洞（CVE-2025-8088），CVSS 评分高达 8.4",
+    "https://mp.weixin.qq.com/s/JQSEeUSpiAg2yrtmGDuuIQ": "Ivanti 提醒注意已遭利用的两个 EPMM 漏洞",
+    "https://mp.weixin.qq.com/s/4LYxZRiLGu2zrAFLOgvddA": "高危！SolarWinds 紧急修复 Web Help Desk 四大漏洞",
+    "https://mp.weixin.qq.com/s/cxomVcO87VA7Pr6UjdHzaw": "安全热点周报：微软 Office 零日漏洞允许恶意文档绕过安全检查",
+    "https://mp.weixin.qq.com/s/Ue5qSeokPG4SokP7_bBOwA": "奇安信获NVDB-CAVD年度优秀技术支撑单位 10项原创漏洞证书彰显车联网安全实力",
+    "https://mp.weixin.qq.com/s/sKpF5ql2hLpILwq9Qr3TNQ": "超干干货！后台未授权访问漏洞实例分享",
+    "https://mp.weixin.qq.com/s/ccRgt_BuyJ9O0dDai4UIkg": "【成功复现】GNU InetUtils Telnetd远程认证绕过漏洞(CVE-2026-24061)"
 }
