@@ -17528,5 +17528,7 @@
     "https://mp.weixin.qq.com/s/PsjAV-08i25TN7RczQ-aiw": "关于AI项目OpenClaw存在远程代码执行漏洞（CVE-2026-25253）的风险提示",
     "https://mp.weixin.qq.com/s/EaEDZDVjgXlBccRRWE5VbQ": "【复现】Ivanti Endpoint Manager Mobile远程代码执行漏洞（CVE-2026-1281和CVE-2026-1340）",
     "https://mp.weixin.qq.com/s/xA4b5mhAIe5ubEzl5OMUiA": "一个漏洞，控制所有VM：CloudCone事件的技术复盘",
-    "https://mp.weixin.qq.com/s/0veSVWzrXajVClmmijCdpQ": "【安全圈】海康威视修复DS-3WAP无线接入点命令注入漏洞（CVE-2026-0709）"
+    "https://mp.weixin.qq.com/s/0veSVWzrXajVClmmijCdpQ": "【安全圈】海康威视修复DS-3WAP无线接入点命令注入漏洞（CVE-2026-0709）",
+    "https://mp.weixin.qq.com/s/vljnnrlAQeiywkRicosSiA": "与俄罗斯有关联的 APT28 组织利用新披露的微软 Office 漏洞进行定向攻击",
+    "https://mp.weixin.qq.com/s/wswvRKHkzh0LLVr46Qphng": "黑客利用 React Native CLI 的漏洞部署 Rust 恶意软件"
 }
