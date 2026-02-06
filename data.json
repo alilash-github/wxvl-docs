@@ -17667,5 +17667,16 @@
     "https://mp.weixin.qq.com/s/sY7-Y5nwJle4d9fJkZJF8g": "LookOut：Google Looker 双重漏洞深度技术分析",
     "https://mp.weixin.qq.com/s/DYqgzvR-gbshNVrIZpOdtw": "深入剖析GCP Looker漏洞：从RCE到跨租户数据泄露",
     "https://mp.weixin.qq.com/s/IlyyCCU-SeusEZBxdPImQg": "漏洞实战：怎么利用 XSS、BAC 和 CSRF 实现平台级接管的",
-    "https://mp.weixin.qq.com/s/mw8sTIA2Cyp134GUpXX_1Q": "第3期：Web漏洞挖掘实战｜XSS跨站脚本漏洞原理与绕过技巧"
+    "https://mp.weixin.qq.com/s/mw8sTIA2Cyp134GUpXX_1Q": "第3期：Web漏洞挖掘实战｜XSS跨站脚本漏洞原理与绕过技巧",
+    "https://mp.weixin.qq.com/s/u6WcWv0foJcFGjTLJwwL6Q": "安全小知识-第二十三期_Struts2的“幽灵漏洞”：S2-045∕046为何至今仍有警醒意义？",
+    "https://mp.weixin.qq.com/s/UBUvlozD7JNRi4rUYm-a2g": "CVE-2025-8949漏洞复现技术分享",
+    "https://mp.weixin.qq.com/s/1kcK8V1NKgZgmvvAi_Hr5Q": "我是如何利用二级上下文漏洞触发后端 API 调用中的 SSRF 和路径遍历攻击的",
+    "https://mp.weixin.qq.com/s/GWjw-3u6XnVV8VQmTqGgWg": "飞牛 FnOS myapp存在目录遍历、文件读取漏洞",
+    "https://mp.weixin.qq.com/s/DGlUb5lXHIbWHfUYoKPR0g": "VMware ESXi 中的 CVE-2025-22225 漏洞现已被用于勒索软件攻击",
+    "https://mp.weixin.qq.com/s/cA_rlI3qQW5THz_LFbkrPA": "利用 LLM 加速漏洞挖掘：我是如何在 Scada-LTS 中发现 Stored XSS 并拿到人生第一个 CVE 的",
+    "https://mp.weixin.qq.com/s/i-rU2q_ZrcHXlrOhP--IwQ": "【红队武器库】100+款漏洞利用工具合集，从Shiro主流框架到云资产全覆盖",
+    "https://mp.weixin.qq.com/s/wzZT_YT5jY8W4FkLssW7XQ": "关于防范Apache Struts2开源应用框架XML外部实体注入高危漏洞的风险提示",
+    "https://mp.weixin.qq.com/s/EUCyc-y6acIlkK6yEXdovg": "某即时通讯系统缓存投毒->代码注入RCE",
+    "https://mp.weixin.qq.com/s/vSyXocSl_bCxHvlueXMcOg": "洞见AI时代漏洞攻防，天融信发布《2025年网络空间安全漏洞态势分析研究报告》",
+    "https://mp.weixin.qq.com/s/kJ1nfNQQzoCcPZaUqRRgAA": "CentOS 9 新漏洞允许攻击者提升至 root 权限——PoC 发布"
 }
