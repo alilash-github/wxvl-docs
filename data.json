@@ -17691,5 +17691,14 @@
     "https://mp.weixin.qq.com/s/VTPMSs-_rL4-qt_b5xW62A": "工具推荐&&SQL注入漏洞检测神器",
     "https://mp.weixin.qq.com/s/uRpTMUZVrnevvrB2GyrHKg": "0day速报：棋士AI代码审计又双叒叕发现新漏洞",
     "https://mp.weixin.qq.com/s/JWWeDFbAIR37yk8fm86FMw": "CVE-2025-48281 SQL注入",
-    "https://mp.weixin.qq.com/s/mT6OwOmpFsvIP4roz3SdIg": "安全热点周报：SolarWinds 严重远程代码执行漏洞已被积极利用"
+    "https://mp.weixin.qq.com/s/mT6OwOmpFsvIP4roz3SdIg": "安全热点周报：SolarWinds 严重远程代码执行漏洞已被积极利用",
+    "https://mp.weixin.qq.com/s/zzjpm1Zlcso-zUzcAIkmkA": "【高危漏洞预警】n8n工作流自动化平台远程代码执行漏洞CVE-2026-25049",
+    "https://mp.weixin.qq.com/s/h0sTAppUiTNsQRzcKgz7Pw": "两个漏洞可用于攻陷谷歌 Looker 实例",
+    "https://mp.weixin.qq.com/s/0MHKw8W5fGeo86owr8hC9Q": "2026年1月企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s/z1iLbcemPe7n9yr9qcVl1w": "【服务端漏洞-访问控制缺失-第二章第三节】找不到敏感路径？试试这招，源码里可能写着答案",
+    "https://mp.weixin.qq.com/s/ezmGOPRRBDLljggC3V8xiQ": "jsPDF库两大漏洞可致代码注入与系统崩溃，千万开发者需立即升级",
+    "https://mp.weixin.qq.com/s/J9IC6PzcIgmylIhUSGkbZg": "JerryScript引擎ecma_op_to_index漏洞分析与越界读写利用",
+    "https://mp.weixin.qq.com/s/0m3JdmA36CrB4bvCBMeMoA": "2026年1月企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s/Wo59F-Hkh8py_3CWfF4JmA": "【靶场复现】Ivanti EPMM Pre-RCE漏洞CVE-2026-1281∕1340",
+    "https://mp.weixin.qq.com/s/cOEsDXrelY7xCIrznIxMrg": "网络钓鱼和OAuth令牌漏洞导致Microsoft 365全面入侵"
 }
