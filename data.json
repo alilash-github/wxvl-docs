@@ -17825,5 +17825,11 @@
     "https://mp.weixin.qq.com/s/LPchipxRaeBscR872E4lSA": "【高危漏洞预警】Apache Airflow认证绕过漏洞CVE-2026-22922",
     "https://mp.weixin.qq.com/s/Pq3vsB8Caji37EToM-7PeA": "微信 linux最新版 1click RCE 已复现",
     "https://mp.weixin.qq.com/s/az75ibo1fQ64M_DtKdlKrw": "Weixin for Linux最新版RCE，利用条件简单，已完成复现！！！",
-    "https://mp.weixin.qq.com/s/syhZgd-eonlWBLdG9lY28w": "【小年快乐】某WeCh** linux存在RCE"
+    "https://mp.weixin.qq.com/s/syhZgd-eonlWBLdG9lY28w": "【小年快乐】某WeCh** linux存在RCE",
+    "https://mp.weixin.qq.com/s/PWShlWVDPRjBAa3Lfyr7DQ": "使用 MonkeyCode 发现并修复安全漏洞的一次实践",
+    "https://mp.weixin.qq.com/s/wrtOHZkl-8-PqYbXCtpzpw": "【附POC及复现环境】Linux版微信 1-click任意命令执行漏洞复现",
+    "https://mp.weixin.qq.com/s/60C-Z2ndRdgD-dBoBBnUOg": "【已复现】微信Linux版本存在1click远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/RsLTmpcuGrc2kSHZvy8AZw": "Fortinet 修复可导致未认证代码执行的严重 SQLi 漏洞",
+    "https://mp.weixin.qq.com/s/VPLQgcQT80zGoP9YCcaZvw": "GitLab网关RCE漏洞可致服务器沦陷",
+    "https://mp.weixin.qq.com/s/P9YcXS4PL08twU7NP7UBBw": "Claude Opus 4.6 找到主流开源库中的500多个高危漏洞"
 }
