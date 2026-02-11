@@ -17844,5 +17844,18 @@
     "https://mp.weixin.qq.com/s/cdVCxwRXtICcF7xiJ7BOpg": "微信 Linux 版本命令执行漏洞（QVD-2026-7687）复现与验证",
     "https://mp.weixin.qq.com/s/BdCHVWckFQWGh8gIOUSUTA": "红队失业倒计时？我用AI在24小时挖出对手三年都找不到的0day",
     "https://mp.weixin.qq.com/s/0mBloV6QzSZ3ljvo2lW3rQ": "大蚂蚁BigAnt即时通讯系统loginByToken接口存在未授权访问 附POC",
-    "https://mp.weixin.qq.com/s/Eq3wuIRXL6kb2VeoVAMLaQ": "【网络安全】微信 Linux 版 4.1.0.13 最新版本存在远程命令执行漏洞，信创系统全军覆没，鸿蒙系统逃过一劫"
+    "https://mp.weixin.qq.com/s/Eq3wuIRXL6kb2VeoVAMLaQ": "【网络安全】微信 Linux 版 4.1.0.13 最新版本存在远程命令执行漏洞，信创系统全军覆没，鸿蒙系统逃过一劫",
+    "https://mp.weixin.qq.com/s/m5JJ_Rjb5yjPInDVolFGLA": "漏洞环境 | XSS-Sec",
+    "https://mp.weixin.qq.com/s/C3JNDSRV1CzOuNKjcDeUuQ": "漏洞预警 | Fortinet身份认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/sUmmFPFb6wdfq3XkSaVJgw": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/_MW1sXHwmHiyS_Rx4wGysw": "黑客利用 SmarterTools 自身软件中的漏洞入侵其网络",
+    "https://mp.weixin.qq.com/s/JCLxnwwwTaX4KC9V29HNsQ": "470个0day速成秘籍曝光：公开文章+补丁diff=一键EXP生成器",
+    "https://mp.weixin.qq.com/s/rzPPXm2QgKdMjLr1x8mecA": "漏洞预警 | 金和OA SQL注入和XXE漏洞",
+    "https://mp.weixin.qq.com/s/ikU2sSGycRlN-6nDtvmPqA": "渗透测试工具包 | 实战攻防工具 | 漏洞扫描、漏洞利用、后∕域渗透等",
+    "https://mp.weixin.qq.com/s/f5KNcsxJMAEN5f821bjhzQ": "GCP Apigee跨租户读写漏洞剖析",
+    "https://mp.weixin.qq.com/s/MJzdzEVn9PEFebT6cIza2A": "Wechat RCE 复现",
+    "https://mp.weixin.qq.com/s/lhuJvoD5DSwI7NxAKmhGeQ": "飞塔 FortiSandbox XSS漏洞允许攻击者执行任意命令",
+    "https://mp.weixin.qq.com/s/wzHkst0lMeGzD1MAfjf-dQ": "【快讯】Linux版本的微信 1Click RCE 漏洞",
+    "https://mp.weixin.qq.com/s/kAsEy93SDHY2QCzFWtYrPA": "【已复现】漏洞预警 | Linux 版 微信 1-Click 命令注入漏洞",
+    "https://mp.weixin.qq.com/s/HXAnqJNivwsXZYplvT_fEw": "微软2026年二补丁日修复了54个漏洞，其中包括6个零日漏洞"
 }
