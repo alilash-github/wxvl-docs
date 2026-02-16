@@ -18022,5 +18022,6 @@
     "https://mp.weixin.qq.com/s/cbmNOAb2YodydLw_8fkZYg": "Metasploit发布7个新漏洞利用模块，覆盖FreePBX、Cacti和SmarterMail",
     "https://mp.weixin.qq.com/s/OCNdz1QLqMwC-2F7WDKtKg": "漏洞复现 | 爱数AnyShare爱数云盘start_service远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/oB0ZN7rmf9zrwg-eGvC7oA": "你的漏洞，都藏在那些异步加载的JS里。",
-    "https://mp.weixin.qq.com/s/2oXwHStbvp8iBEFuds4VmQ": "CVE-2026-20841（Win11-记事本RCE）复现学习(未果)"
+    "https://mp.weixin.qq.com/s/2oXwHStbvp8iBEFuds4VmQ": "CVE-2026-20841（Win11-记事本RCE）复现学习(未果)",
+    "https://mp.weixin.qq.com/s/d3qPOLz46w46Z82WomfYHQ": "Chroma DB存在swagger敏感信息泄露漏洞 附POC"
 }
