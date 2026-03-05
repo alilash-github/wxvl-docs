@@ -18474,5 +18474,21 @@
     "https://mp.weixin.qq.com/s/LHxZY6wN4-GrvGcp9EMCVQ": "Tenda堆栈缓冲区溢出漏洞 (CVE-2024-2986)",
     "https://mp.weixin.qq.com/s/lpDNPbUlLijmFuz_WVH5PA": "青龙面板存在任意账号密码重置漏洞",
     "https://mp.weixin.qq.com/s/_9GMsNgc-_KdXl1-t-zRJQ": "谷歌披露iOS漏洞攻击套件Coruna，数千iPhone用户面临威胁",
-    "https://mp.weixin.qq.com/s/GfZd_pqoiPhpiCriWaBkCg": "【附POC及复现环境】关于 “Windows记事本命令注入漏洞” 的一些真相（CVE-2026-20841）"
+    "https://mp.weixin.qq.com/s/GfZd_pqoiPhpiCriWaBkCg": "【附POC及复现环境】关于 “Windows记事本命令注入漏洞” 的一些真相（CVE-2026-20841）",
+    "https://mp.weixin.qq.com/s/CO2coDczUaffYg7BFsY34w": "[RCE] n8n未授权RCE+Chrome UAF 0day，今日双杀",
+    "https://mp.weixin.qq.com/s/oPrD0QpowxWsOhnBhQ4JbQ": "渗透测试Payload速查平台 | XSS∕SQLi∕SSRF∕RCE | React+TypeScript",
+    "https://mp.weixin.qq.com/s/IbW59TaqLZJjzMRm_JcS0A": "通杀iPhone的漏洞工具包遭泄露：美国政府级黑客工具流入黑市，你的苹果手机已成提款机！",
+    "https://mp.weixin.qq.com/s/RLCLnQLKVys4dUK4jckCyA": "EasyCVR视频管理平台未授权添加用户漏洞 附POC",
+    "https://mp.weixin.qq.com/s/6HNJYi_B4rVi1q1obzeCPQ": "某大型oa前台0day挖掘",
+    "https://mp.weixin.qq.com/s/Ev5pAUCuLEVvYA_yR2yRvA": "CVSS 10.0 FreeScout 中的未经身份验证的远程代码执行（公开概念验证）",
+    "https://mp.weixin.qq.com/s/wOqglx_EXLQt5cscuD9LWw": "【林晓月的AI安全日记-003】你在用AI看网页，网页在往你电脑写木马｜Google Antigravity浏览器扩展RCE漏洞",
+    "https://mp.weixin.qq.com/s/RuArJUsXdTRtFY-TwB4PjQ": "【漏洞复现】某面板新版本鉴权绕过导致远程代码执行",
+    "https://mp.weixin.qq.com/s/JuZ87Rc0iB32i5bmWkWnAA": "美国网络安全和基础设施安全局 (CISA) 警告：高通芯片组内存损坏漏洞正被攻击者积极利用",
+    "https://mp.weixin.qq.com/s/SviX5oH7veHqAbNTXFseHQ": "深度追踪“Coruna”：一款高端 iOS 漏洞武器库的“暗网”漂流记",
+    "https://mp.weixin.qq.com/s/4dXSD-h6TfIYhYrvpGHylA": "记一次某大型oa前台0day挖掘",
+    "https://mp.weixin.qq.com/s/bqAE_G91ZK4Pzhm5XydMMA": "安恒已自用｜恒脑AI代码审计智能体实战：与专家同台 PK，让逻辑漏洞不再是“运气发现”",
+    "https://mp.weixin.qq.com/s/MLcgJuahwntKSwCjI4AXUA": "容器逃逸新方法：潜伏20年的Linux漏洞CVE-2025-38617剖析",
+    "https://mp.weixin.qq.com/s/J6wCB9KG3d-om9dwU83PDw": "Chrome Gemini漏洞可致攻击者远程访问用户摄像头和麦克风",
+    "https://mp.weixin.qq.com/s/LLAKmMlaQbXIXyIFVzyIug": "Openclaw技术解析：自动审计用友U8C代码漏洞指南",
+    "https://mp.weixin.qq.com/s/yscg3Ibj9-GEeRL1pAVuJA": "漏洞复现 | Western Digital My Cloud NAS multi_uploadify.php 文件上传漏洞"
 }
