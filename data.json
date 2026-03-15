@@ -18973,5 +18973,10 @@
     "https://mp.weixin.qq.com/s/vEwhAMbP35cj4mh5-QstLQ": "工业网关惊现高危漏洞，全球逾21万台设备面临凭据失窃风险 CVE-2026-25818",
     "https://mp.weixin.qq.com/s/lkvRW9wFKyUPQUlnHkI3pQ": "【服务端漏洞-访问控制缺失-第五章第三节】从0到1：文件上传漏洞之Content-Type绕过实战解析",
     "https://mp.weixin.qq.com/s/R3G_f75biUYOC9slLqqz9Q": "OpenClaw（龙虾）近期高危漏洞&风险大盘点！",
-    "https://mp.weixin.qq.com/s/FwT9gwksuumFjtZJxni0iQ": "记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的"
+    "https://mp.weixin.qq.com/s/FwT9gwksuumFjtZJxni0iQ": "记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的",
+    "https://mp.weixin.qq.com/s/hSUIOxEbbIcDMM-QHuJkeA": "Linux AppArmor模块曝九大漏洞，可致提权及绕过容器隔离",
+    "https://mp.weixin.qq.com/s/3VjysQ6W--H1alv2tcRACQ": "Zyxel警告称，十几款路由器存在严重远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/JMQ96xrHaEmx7TPCrz5e5w": "深科特LEANMES系统WarehouseCheck.ashx接口存在SQL注入 附POC",
+    "https://mp.weixin.qq.com/s/3aUFaPqTswWqCxMq57ritQ": "OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取",
+    "https://mp.weixin.qq.com/s/1Ig16PXYt_g21_S_QI9P3Q": "代码审计 | 九佳易ERP漏洞分析"
 }
