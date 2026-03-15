@@ -18972,5 +18972,6 @@
     "https://mp.weixin.qq.com/s/Uxc8INFqSLTcuVcmx48Ymg": "微软发布 Windows 11 热修复补丁修复 RRAS 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/vEwhAMbP35cj4mh5-QstLQ": "工业网关惊现高危漏洞，全球逾21万台设备面临凭据失窃风险 CVE-2026-25818",
     "https://mp.weixin.qq.com/s/lkvRW9wFKyUPQUlnHkI3pQ": "【服务端漏洞-访问控制缺失-第五章第三节】从0到1：文件上传漏洞之Content-Type绕过实战解析",
-    "https://mp.weixin.qq.com/s/R3G_f75biUYOC9slLqqz9Q": "OpenClaw（龙虾）近期高危漏洞&风险大盘点！"
+    "https://mp.weixin.qq.com/s/R3G_f75biUYOC9slLqqz9Q": "OpenClaw（龙虾）近期高危漏洞&风险大盘点！",
+    "https://mp.weixin.qq.com/s/FwT9gwksuumFjtZJxni0iQ": "记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的"
 }
