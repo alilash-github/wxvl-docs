@@ -19001,5 +19001,8 @@
     "https://mp.weixin.qq.com/s/a3fR9t4d9ypoWl3aEHAjlA": "记一次某EIS办公平台0day挖掘审计过程",
     "https://mp.weixin.qq.com/s/AbSNFCnWG-rcMGDs5_hWkg": "为什么你挖不到漏洞？从“无效努力”到“高效出洞”的思维跃迁",
     "https://mp.weixin.qq.com/s/duL-47kgsjKv6JyZaiF53g": "Tenable 揭露“LeakyLooker”漏洞，将 Google Looker Studio 变成云端后门",
-    "https://mp.weixin.qq.com/s/lmbPX8bnKrVHf2vnduMWFA": "OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取"
+    "https://mp.weixin.qq.com/s/lmbPX8bnKrVHf2vnduMWFA": "OpenClaw AI Agent漏洞可导致提示词注入攻击与数据窃取",
+    "https://mp.weixin.qq.com/s/e1vcBZglNIj8NWqC907ZjA": "Claude Code、Gemini实测暴露漏洞，仍在重复十年前安全错误；中国互联网金融协会：关于OpenClaw在互联网金融行业应用安全的风险提示|牛览",
+    "https://mp.weixin.qq.com/s/jv6H39mFH9gglbcCxipd2Q": "将超出漏洞范围的 HTML 注入升级为高危 9.3 分 XSS 漏洞（绕过 WAF）",
+    "https://mp.weixin.qq.com/s/KxpSqvBI7RsoK_p9siymXw": "快普M6 GetPositionOfStaff sql注入漏洞"
 }
