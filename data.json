@@ -19083,5 +19083,14 @@
     "https://mp.weixin.qq.com/s/FuPbrHpTvqc5avbgVkx_VA": "CVE-2026-25803：3DP-MANAGER 硬编码默认凭据导致 VPN 管理后台完全接管",
     "https://mp.weixin.qq.com/s/BNXSFGGtcEqHMZwbxwUjTw": "武装你的浏览器-漏洞检测",
     "https://mp.weixin.qq.com/s/Ju3JvUI3f7FQtB4iEgi4NA": "快普M6 GetPositionOfStaff接口存在sql注入漏洞 附POC",
-    "https://mp.weixin.qq.com/s/mToIusqcH7pS_vv0r9mNWw": "集成 15 000+ PoC 的“万能扫描怪兽”"
+    "https://mp.weixin.qq.com/s/mToIusqcH7pS_vv0r9mNWw": "集成 15 000+ PoC 的“万能扫描怪兽”",
+    "https://mp.weixin.qq.com/s/TkLVg82qZ_kKiXWMqa1cnA": "3月社区投稿活动 | 漏洞挖掘",
+    "https://mp.weixin.qq.com/s/xkxLbNovX0MJR1iHkJsilg": "记录一套由弱口令拿到超管权限再拿下通用漏洞实战",
+    "https://mp.weixin.qq.com/s/1qkE5KVm-sP_-Rli3G8AzA": "实战复现：10 个真实 SRC 逻辑漏洞",
+    "https://mp.weixin.qq.com/s/Nopw3lLbAQXejyIxBOIhTg": "AK47 | 一款跨平台的漏洞利用与安全评估工具，内置高级引擎与多种安全扩展模块",
+    "https://mp.weixin.qq.com/s/SSlNfEl6idiCUrKzdxiocg": "2026-03-19 最新CVE漏洞情报和技术资讯头条",
+    "https://mp.weixin.qq.com/s/ZMpgnzx2DHSYw5aIW5tcGg": "OpenClaw\"养虾\"热潮背后的安全隐患：从漏洞分析到企业级防护实践",
+    "https://mp.weixin.qq.com/s/LussY3HOrmqzuhANF6bJag": "漏洞复现 | 用友U8cloud NCCloudGatewayServlet接口存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/WAnamfuN5TwPfg8WcHDDlQ": "Coruna：神秘而强大的iOS漏洞利用工具包分析",
+    "https://mp.weixin.qq.com/s/UbJd5BTiU7v43qvedQUB_Q": "Spring框架相关漏洞案例分享"
 }
