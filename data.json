@@ -19129,5 +19129,8 @@
     "https://mp.weixin.qq.com/s/U_TuD9yZ8MamJ1MH49d56w": "【案例分享】某SRC SSRF漏洞分享",
     "https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ": "俄罗斯APT组织利用Zimbra XSS漏洞CVE-2025-66376攻击乌克兰",
     "https://mp.weixin.qq.com/s/LrbuTbY9aTMhhqaXUL8RVA": "工信部：关于防范Windows远程桌面服务（RDS）权限提升高危漏洞的风险提示；AI 加持新型社工攻击 浏览器权限滥用致生物信息泄露 | 牛览",
-    "https://mp.weixin.qq.com/s/nukEly-vS4KNUl5SFu1_Gg": "Jenkins 的严重缺陷使 CI∕CD 服务器面临远程代码执行的风险"
+    "https://mp.weixin.qq.com/s/nukEly-vS4KNUl5SFu1_Gg": "Jenkins 的严重缺陷使 CI∕CD 服务器面临远程代码执行的风险",
+    "https://mp.weixin.qq.com/s/Ifz76zCGmlgnHMEZiFF4OQ": "【蓝队】一套面向企业级的漏洞全生命周期管理平台",
+    "https://mp.weixin.qq.com/s/82blCxBUzkpCsxmSUU1cHA": "Langflow 远程代码执行与任意文件写入漏洞 | CVE-2026-33017∕33309已复现",
+    "https://mp.weixin.qq.com/s/eEN_SMBebETV-8mDGK8AJA": "OpenClaw 安全全景分析：从公开漏洞、利用链到最安全安装基线"
 }
