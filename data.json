@@ -19122,5 +19122,12 @@
     "https://mp.weixin.qq.com/s/acJRu18qzQ_nJdWtbOCRBA": "OpenClaw AI高危漏洞速查、全自动漏洞安全基线检测工具",
     "https://mp.weixin.qq.com/s/AX-nvo_bgzgEo7xaEBBI2g": "恒丰银行AI编码助手项目POC测试供应商征集",
     "https://mp.weixin.qq.com/s/MUnHA4_jalwGsz2_C5tMBw": "记一次某大型oa前台0day挖掘",
-    "https://mp.weixin.qq.com/s/qJVzWz6wtbOfHHgtflxVig": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s/qJVzWz6wtbOfHHgtflxVig": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/Hz9X_dmj59luAIlaYOmOhQ": "ChurchCRM SQL注入漏洞（CNVD-2026-12565、CVE-2026-24854）",
+    "https://mp.weixin.qq.com/s/AWLWH1U6RY8-iwXu_6qMIw": "监控系统反被监控?Glances曝严重凭证泄露漏洞 CVE-2026-32633",
+    "https://mp.weixin.qq.com/s/UQjpB35iOt8oltRLiHNlSA": "BMC FootPrints 预认证远程代码执行漏洞链分析",
+    "https://mp.weixin.qq.com/s/U_TuD9yZ8MamJ1MH49d56w": "【案例分享】某SRC SSRF漏洞分享",
+    "https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ": "俄罗斯APT组织利用Zimbra XSS漏洞CVE-2025-66376攻击乌克兰",
+    "https://mp.weixin.qq.com/s/LrbuTbY9aTMhhqaXUL8RVA": "工信部：关于防范Windows远程桌面服务（RDS）权限提升高危漏洞的风险提示；AI 加持新型社工攻击 浏览器权限滥用致生物信息泄露 | 牛览",
+    "https://mp.weixin.qq.com/s/nukEly-vS4KNUl5SFu1_Gg": "Jenkins 的严重缺陷使 CI∕CD 服务器面临远程代码执行的风险"
 }
