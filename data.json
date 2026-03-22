@@ -19171,5 +19171,13 @@
     "https://mp.weixin.qq.com/s/LGl3CQSBFsB8LmjXMtw7Lw": "AI驱动的渗透测试工具Apex，以黑盒模式攻击应用程序发现漏洞",
     "https://mp.weixin.qq.com/s/mpXMzpFWRTYbTz-wbzcqPA": "英伟达发布“安全版龙虾”NemoClaw；DarkSword串联六漏洞攻破iOS | FreeBuf周报",
     "https://mp.weixin.qq.com/s/3czRaDI1lNghUxt21UIBzQ": "Oracle 紧急发布安全更新，修复 Identity Manager 和 Web Services Manager 中的关键远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/QwcIUu6144mQygqn5IFrSg": "pbootcms SQL注入漏洞分析"
+    "https://mp.weixin.qq.com/s/QwcIUu6144mQygqn5IFrSg": "pbootcms SQL注入漏洞分析",
+    "https://mp.weixin.qq.com/s/YQuXEKZNoehxwiyD-59ANg": "用Agent打败Agent：LLM智能体漏洞，正在进入自动化挖掘阶段（Agentfuzz）",
+    "https://mp.weixin.qq.com/s/ytiq_OjlbQXtMo5i25__mA": "苹果手机国家级黑客工具DarkSword的扩散：iOS漏洞利用链被多个威胁行为者采用",
+    "https://mp.weixin.qq.com/s/UAh9CjgpmAk-k3FoC0Yrmg": "Burp Suite 文件上传漏洞自动化测试插件 1000+ payload",
+    "https://mp.weixin.qq.com/s/krfaBaXqzjFMAX-pEQJIlw": "滥用漏洞驱动 (BYOVD) 实现任意内核读写并绕过 PPL 保护",
+    "https://mp.weixin.qq.com/s/TqidPtWAX_Ysxy-t0ICZcg": "Omnissa Workspace ONE UEM存在敏感信息泄漏漏洞（CVE-2025-25231） 附POC",
+    "https://mp.weixin.qq.com/s/L36Yk5-ZLa_bHb3I_ek_Hw": "Java 漏洞利用全家桶工具，内置免杀webshell生成Bypass模块，助力实战攻防",
+    "https://mp.weixin.qq.com/s/p95T1QhmbNH67bnVQ50oaw": "漏洞公开20小时即遭攻击，Trivy安全扫描器一月内两度沦陷",
+    "https://mp.weixin.qq.com/s/zg6MQCDO-ylywQzTaASqnQ": "开源人工智能开发框架高危漏洞在公开披露数小时后即被利用"
 }
