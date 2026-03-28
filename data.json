@@ -19357,5 +19357,7 @@
     "https://mp.weixin.qq.com/s/4gQuOELNxWHLo839uL37MQ": "信息安全漏洞周报【第067期】",
     "https://mp.weixin.qq.com/s/iINM32Qqy-AX0CDdTouFIw": "思科安全防火墙漏洞可导致攻击者以root权限远程执行代码",
     "https://mp.weixin.qq.com/s/IyAA2ODg1nY1u8XQyEdtWA": "新的 Windows 错误报告漏洞允许攻击者升级以获得系统访问权限",
-    "https://mp.weixin.qq.com/s/ujz2zjQP_hb6drRwCi6i5g": "Claude浏览器扩展漏洞允许通过任意网站实现零点击XSS提示注入"
+    "https://mp.weixin.qq.com/s/ujz2zjQP_hb6drRwCi6i5g": "Claude浏览器扩展漏洞允许通过任意网站实现零点击XSS提示注入",
+    "https://mp.weixin.qq.com/s/uNiKLvCRAEjtL5KnLn0BsA": "你配置的AI白名单一文不值：CVE-2026-28363让OpenClaw授权控制全面失效",
+    "https://mp.weixin.qq.com/s/iuRyip2HuthovZU1gEhCJA": "2026年Q1网络安全威胁深度分析：AI驱动攻击、供应链漏洞与防御策略升级"
 }
