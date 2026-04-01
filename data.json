@@ -19423,5 +19423,13 @@
     "https://mp.weixin.qq.com/s/KRKlG578WNRCNmpA8Lua1g": "【已复现】漏洞通告 | Vim 代码执行漏洞(CVE-2026-34714)",
     "https://mp.weixin.qq.com/s/FRj3m8Nqv2x5KNK5pSQadg": "Telegram 惊曝零日漏洞争议：发个贴纸就能控制手机？官方却全盘否认",
     "https://mp.weixin.qq.com/s/9cYnq44HEq2P8qbIp9Lqhw": "【安全圈】360漏洞挖掘智能体发现OpenClaw高危漏洞，或波及全球17万实例",
-    "https://mp.weixin.qq.com/s/-tZG-IhjSOAfA2L2Dcig4Q": "【零基础可复现】2026 春节 Android 中级题（Java→so→unidbg 全流程）"
+    "https://mp.weixin.qq.com/s/-tZG-IhjSOAfA2L2Dcig4Q": "【零基础可复现】2026 春节 Android 中级题（Java→so→unidbg 全流程）",
+    "https://mp.weixin.qq.com/s/euKnHxD0p2cX9fpmmQWxPw": "从模板到提交到管理POC：VSCode 插件简化 POC 全流程",
+    "https://mp.weixin.qq.com/s/axP2bHKajuECqkdxib-IUw": "漏洞复现 | 美特CRM sendfile.jsp 存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/jDqCPbON8fWbhzJYALrQ4w": "威胁通缉令 · 红桃4丨RDP Client RCE漏洞（新增）",
+    "https://mp.weixin.qq.com/s/nzeYkCTF6fFOqkhDN-fyRQ": "预警情报:linux的Telnet 服务root 权限远程代码执行编号:CVE-2026-32746附POC",
+    "https://mp.weixin.qq.com/s/QfOixP4umzn0aFVLHG5nHQ": "智能网联汽车漏洞管理实践探索",
+    "https://mp.weixin.qq.com/s/nA6_ieBzRf85s6rCULDHIQ": "因酷教育软件 queryUserById 信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/cWFZTGjWa1kNJ2ZJuT96SA": "新思路！支付漏洞实战案例分享：低价薅高价商品",
+    "https://mp.weixin.qq.com/s/hvxxw4AzXAQo-HAZuBZZ7g": "TA446 在针对性鱼叉式网络钓鱼活动中部署 DarkSword iOS 漏洞套件"
 }
