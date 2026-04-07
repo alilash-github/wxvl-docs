@@ -19563,5 +19563,10 @@
     "https://mp.weixin.qq.com/s/4XBkiguahhoy1ma2tRzRgA": "Dgraph 数据库存在严重漏洞，攻击者可绕过身份验证",
     "https://mp.weixin.qq.com/s/3VnNNmAzmDz0zyLb7YW3SQ": "图形化未授权访问漏洞扫描器，支持检测 40+种 常见服务的未授权漏洞",
     "https://mp.weixin.qq.com/s/hhvbv9yEs72Xk6ZgZojkHw": "OpenSSH 10.3 发布，修复 Shell 注入及其他安全漏洞",
-    "https://mp.weixin.qq.com/s/R6Dnc2CW_OlxVTv-t1vg1g": "大模型在漏洞挖掘中的“逻辑跳跃”问题与解决方案"
+    "https://mp.weixin.qq.com/s/R6Dnc2CW_OlxVTv-t1vg1g": "大模型在漏洞挖掘中的“逻辑跳跃”问题与解决方案",
+    "https://mp.weixin.qq.com/s/ONVBz36WILWupIL-pLS-ow": "漏洞预警 | Vim代码执行漏洞",
+    "https://mp.weixin.qq.com/s/qjYH83QoPZZ78b0bMBX-7A": "漏洞预警 | LEAN MES系统文件上传漏洞",
+    "https://mp.weixin.qq.com/s/Jwsz4e0aRIfTV13MEjXqXA": "RAG从元数据Key到RCE：CVE-2026-22738 深度解析Spring AI向量存储中的SpEL表达式注入与逃逸",
+    "https://mp.weixin.qq.com/s/y9dVYQfxTVWVaeN8-jzfcw": "苹果用户注意！及时更新iOS特定版本 防范漏洞攻击利用风险",
+    "https://mp.weixin.qq.com/s/QtqNTuAU0IEXTmM13jFZeQ": "AI攻防博弈进入“奇点”时刻｜Claude4小时攻击警示：漏洞攻防必须AI原生化"
 }
