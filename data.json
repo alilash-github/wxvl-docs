@@ -19639,5 +19639,7 @@
     "https://mp.weixin.qq.com/s/397gOgvOHojuVcXDeq-zjA": "Vite 任意文件读取漏洞 | CVE-2026-39363复现&研究",
     "https://mp.weixin.qq.com/s/1244Ya5UrHHuWAs6KXnw2g": "J.a.k.o.b -如何更好的进行漏洞和**研究？",
     "https://mp.weixin.qq.com/s/3RWtWphVFPpDmYKWmsRoHg": "迅饶科技X2Modbus网关GetConfig接口存在敏感信息泄露漏洞 附POC",
-    "https://mp.weixin.qq.com/s/F_iCsZVqUvoTnC4zhB8Y7Q": "【高危漏洞预警】Apache ActiveMQ远程代码执行漏洞(CVE-2026-34197)"
+    "https://mp.weixin.qq.com/s/F_iCsZVqUvoTnC4zhB8Y7Q": "【高危漏洞预警】Apache ActiveMQ远程代码执行漏洞(CVE-2026-34197)",
+    "https://mp.weixin.qq.com/s/pK3SdwSJ7XsH9gXktHZScQ": "拿捏1.8万台设备！从CVE-2023-50224看APT组织如何玩转边缘设备渗透",
+    "https://mp.weixin.qq.com/s/D-W4UJmQxOpYX3woKJT_PQ": "安卓高通芯片0day漏洞CVE-2026-21385"
 }
