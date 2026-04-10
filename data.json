@@ -19703,5 +19703,7 @@
     "https://mp.weixin.qq.com/s/hj9rI8bmcojZ-Pgbt--axQ": "【安全警示】Claude Mythos隐藏能力曝光：AI发现零日漏洞的震撼一周",
     "https://mp.weixin.qq.com/s/-UG8NexckrCs2BFWKx2cTA": "谷歌不再接受AI提交的漏洞检测报告",
     "https://mp.weixin.qq.com/s/dTs9aDDuU1DHwNmQ5j19nA": "Progress ShareFile曝新漏洞 可组合实现未认证远程代码执行",
-    "https://mp.weixin.qq.com/s/hDpqHjKnUj4iABQ6OeIs9A": "安全热点周报：Fortinet 发布紧急补丁修复 FortiClient 零日漏洞"
+    "https://mp.weixin.qq.com/s/hDpqHjKnUj4iABQ6OeIs9A": "安全热点周报：Fortinet 发布紧急补丁修复 FortiClient 零日漏洞",
+    "https://mp.weixin.qq.com/s/OyoFjDa8PeUemzBT9cIv6g": "【高危漏洞预警】OpenAM远程代码执行漏洞(CVE-2026-33439)",
+    "https://mp.weixin.qq.com/s/fEVcQ8TxCSZ7_pezbpvJJQ": "【高危漏洞预警】Fortinet FortiClient EMS 访问控制不当漏洞(CVE-2026-35616)"
 }
