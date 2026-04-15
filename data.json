@@ -19836,5 +19836,7 @@
     "https://mp.weixin.qq.com/s/hySfiGzFrxILRvabMCuPIQ": "API漏洞赏金大师班2026：寻找隐藏端点",
     "https://mp.weixin.qq.com/s/GgQah_mZEOgE-sM_InC1xA": "WebStack系统CVE-2026-1555漏洞，支持未授权任意文件上传——RCE POC遭贩卖",
     "https://mp.weixin.qq.com/s/6VJlmBRsmtQsTMzfFCGndQ": "Web应用漏洞自动化扫描工具 -- webjc（4月13日更新）",
-    "https://mp.weixin.qq.com/s/uexBRD_sVZqMz1dPtW-ApA": "【高危漏洞预警】Apache Tomcat 远程代码执行漏洞(CVE-2026-34486)"
+    "https://mp.weixin.qq.com/s/uexBRD_sVZqMz1dPtW-ApA": "【高危漏洞预警】Apache Tomcat 远程代码执行漏洞(CVE-2026-34486)",
+    "https://mp.weixin.qq.com/s/ZZMFh2I6FiOAOh80JyhAwg": "【SRC实战】企业SRC中的两次任意用户注册漏洞",
+    "https://mp.weixin.qq.com/s/6F-rbsxIOgNLzoXafgSJNg": "大语言模型驱动的漏洞挖掘：能力机制、场景分析与演进路径"
 }
