@@ -19994,5 +19994,12 @@
     "https://mp.weixin.qq.com/s/l_VPWxlBISmDU2pk0iv-Zg": "CNVD漏洞周报2026年第15期",
     "https://mp.weixin.qq.com/s/t8Pi1hhPaNReLwW7BzzTYQ": "pocsuites安全工具源码分析",
     "https://mp.weixin.qq.com/s/OoRfZLH7Cp_wFOsPTqdT7w": "Flowise 中存在严重漏洞，可通过 MCP 适配器执行远程命令",
-    "https://mp.weixin.qq.com/s/D_9H3keQB-CQlGIwUsj7Lg": "Windows Defender 0day漏洞遭利用，攻击者组合PoC工具发起提权攻击"
+    "https://mp.weixin.qq.com/s/D_9H3keQB-CQlGIwUsj7Lg": "Windows Defender 0day漏洞遭利用，攻击者组合PoC工具发起提权攻击",
+    "https://mp.weixin.qq.com/s/mQZl-a6PTBajVF52bLVFCw": "NocoBase AI 驱动型无代码平台SSRF漏洞 | CVE-2026-40346原理分析&研究",
+    "https://mp.weixin.qq.com/s/p5QnLgEIbWjmZYs1fCkIWw": "[漏洞报告]小白也能学会，某平台 CMS 系统后台漏洞的报告",
+    "https://mp.weixin.qq.com/s/80J8fPhGYKcEjVpBSjdK0g": "【高危AI漏洞预警】FlowiseAI远程代码执行漏洞(CVE-2026-41138)",
+    "https://mp.weixin.qq.com/s/1N2mTExs23pWHwnK-rI3FQ": "T0级漏洞",
+    "https://mp.weixin.qq.com/s/C-zcQJpZZFK1nTl71K78Ug": "CVE-2023-33538 已遭受持续一年的攻击，但漏洞利用仍未成功",
+    "https://mp.weixin.qq.com/s/uSyhYV6Sy3KkRRsAYPIp6Q": "ActiveMQ-EXPtools | Apache ActiveMQ全系列漏洞一键支持检测和利用工具",
+    "https://mp.weixin.qq.com/s/ZtpiJ1Oea5vJDXKm1o1CEw": "2025 “泉城杯” 济南市网络安全大赛 题目复现"
 }
