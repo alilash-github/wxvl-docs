@@ -20269,5 +20269,9 @@
     "https://mp.weixin.qq.com/s/P4dloFveiPI3jowz1YmLRg": "OpenClaw三大漏洞可致策略绕过与主机劫持",
     "https://mp.weixin.qq.com/s/ZDPoeekcoHDUc-mltalnHg": "攻击者可通过漏洞链在CODESYS应用中植入后门",
     "https://mp.weixin.qq.com/s/eBnlFVk8Q4GQNP6keHuSjQ": "cPanel发布严重身份验证漏洞警告——紧急补丁已发布",
-    "https://mp.weixin.qq.com/s/3BgVRD3ap1MukW8C2kPS2w": "成功复现！一条 git push 即可接管 GitHub 服务器，任意拉取他人私有仓库 (CVE-2026-3854)"
+    "https://mp.weixin.qq.com/s/3BgVRD3ap1MukW8C2kPS2w": "成功复现！一条 git push 即可接管 GitHub 服务器，任意拉取他人私有仓库 (CVE-2026-3854)",
+    "https://mp.weixin.qq.com/s/_3AuJPcKpfiuD7JrLlWg_A": "一条 git push 就能拿下 GitHub 服务器？CVE-2026-3854 详解",
+    "https://mp.weixin.qq.com/s/tjO9uXE5mb-KU1IAT5yffg": "所有受支持的 cPanel 版本均受高危认证漏洞影响，目前已完成补丁修复",
+    "https://mp.weixin.qq.com/s/Z2dWGAwId9e7H5yXQVsxPA": "MajorDoMo admin.php接口存在远程代码执行漏洞CVE-2026-27174 附POC",
+    "https://mp.weixin.qq.com/s/4l69yVBMxoHh8U7x98VwCQ": "CVE-2026-42208：LiteLLM 漏洞披露后仅 36 小时即遭利用"
 }
