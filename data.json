@@ -20444,5 +20444,6 @@
     "https://mp.weixin.qq.com/s/mEpM48WrSDJ8vsIobtLLnQ": "CISA 将已被积极利用的 Linux Root 访问漏洞 CVE-2026-31431 添加到 KEV 中",
     "https://mp.weixin.qq.com/s/Gq8qu_V26Q7Q4tjD-p11IQ": "今日（2026年5月3日）热点网络安全漏洞动态",
     "https://mp.weixin.qq.com/s/Zn_l-GnWSbj8jIY2dumfnw": "Apache OpenNLP 曝出一组高危漏洞，包括XXE注入",
-    "https://mp.weixin.qq.com/s/tJG1Y-jAKFRAVCYMYGw1oQ": "cPanelSniper：CVSS 10.0的cPanel认证绕过漏洞利用框架"
+    "https://mp.weixin.qq.com/s/tJG1Y-jAKFRAVCYMYGw1oQ": "cPanelSniper：CVSS 10.0的cPanel认证绕过漏洞利用框架",
+    "https://mp.weixin.qq.com/s/waGLYUcPMMttlPZsVDq09w": "Sub2Api 网关平台存在0计费bug漏洞"
 }
