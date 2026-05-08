@@ -20551,5 +20551,12 @@
     "https://mp.weixin.qq.com/s/L3-qQ9PyEz094ffMSVN1Hw": "Apache HTTP∕2 严重漏洞可导致 DoS 和 RCE",
     "https://mp.weixin.qq.com/s/QGe2pCwAFWzjsnrqsYe-iw": "《2025∕2026网络安全漏洞调查（教育机构）》报告概况",
     "https://mp.weixin.qq.com/s/S1Wi0IM-PEoEXopRQ223og": "漏洞通告 | Apache HTTP Server 远程命令执行漏洞",
-    "https://mp.weixin.qq.com/s/tpiM6oNXjjk_mtzEaRFzJw": "智互联WMS getsyspdaversionlistbyparams接口存在SQL注入漏洞 附POC"
+    "https://mp.weixin.qq.com/s/tpiM6oNXjjk_mtzEaRFzJw": "智互联WMS getsyspdaversionlistbyparams接口存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/p_O_Ea7mq7niZ8saZvqpQQ": "快报：Linux 又爆高危提权漏洞：DirtyFrag",
+    "https://mp.weixin.qq.com/s/6l20TGclAUgFbXtqJJHM3A": "26软件安全区域赛nodejs复现",
+    "https://mp.weixin.qq.com/s/9YOYEJfnZdbxNfoS9UUb7Q": "[技术深潜] git push 即沦陷：拆解 CVE-2026-3854",
+    "https://mp.weixin.qq.com/s/SdTxshrgbBpra53TCLG6sA": "美国国防部承包商API漏洞致军事课程与军人记录泄露",
+    "https://mp.weixin.qq.com/s/j2xdrJKyTn3jbzoivGXzhQ": "【已复现】漏洞通告 | Apache HTTP Server 双重释放漏洞(CVE-2026-23918)",
+    "https://mp.weixin.qq.com/s/Cyg76k5MYhcYlkTbXrzHAg": "【审计】Digital Watchdog VMAX IP Plus 摄像头命令执行漏洞",
+    "https://mp.weixin.qq.com/s/YT1Nhn1Jli_6-PPnwUWniA": "未授权任意用户密码修改漏洞"
 }
