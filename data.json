@@ -20615,5 +20615,6 @@
     "https://mp.weixin.qq.com/s/cA5ct2-d2qgn2kJgczSXAQ": "【漏洞复现】GitPython 存在命令注入漏洞（CVE-2026-42284）",
     "https://mp.weixin.qq.com/s/y1IH1fPjfFda83yWGsC9eg": "Dirty Frag：2026年严重的 Linux 本地提权漏洞深度分析",
     "https://mp.weixin.qq.com/s/-ymJXhndZOlGwhZ1pMawkQ": "征求意见稿丨国家标准《网络安全技术 网络安全漏洞分类分级指南》，附下载",
-    "https://mp.weixin.qq.com/s/JXsls0yGh9tyhSB_PG8jJQ": "高危预警｜DirtyFrag Linux内核提权漏洞公开！覆盖9年版本，信创系统也受影响"
+    "https://mp.weixin.qq.com/s/JXsls0yGh9tyhSB_PG8jJQ": "高危预警｜DirtyFrag Linux内核提权漏洞公开！覆盖9年版本，信创系统也受影响",
+    "https://mp.weixin.qq.com/s/12IovyzpSpSS3WFmsJw-PQ": "4 个字节，9 年技术债：CVE-2026-31431 ∕ Copy Fail 完整拆解"
 }
