@@ -20592,5 +20592,10 @@
     "https://mp.weixin.qq.com/s/OECvdYrKJgjjuZJ639K4gA": "【安全警报】732字节的\"核弹\"：Linux内核Copy Fail漏洞一键Root所有服务器",
     "https://mp.weixin.qq.com/s/k5iUCouCUVa42ggPcfCHbQ": "【高危漏洞预警】Linux Kernel Dirty Frag 本地权限提升漏洞",
     "https://mp.weixin.qq.com/s/GmjwyUAGC7CFhRaC6NcF_w": "正在被利用！Palo Alto防火墙RCE漏洞CVE-2026-0300，不认证就能拿 root",
-    "https://mp.weixin.qq.com/s/sUa6V_SSch7bczZcVIxS0Q": "最近是怎么了？又一款通杀全线Linux发行版的0Day漏洞"
+    "https://mp.weixin.qq.com/s/sUa6V_SSch7bczZcVIxS0Q": "最近是怎么了？又一款通杀全线Linux发行版的0Day漏洞",
+    "https://mp.weixin.qq.com/s/tCFASolhwwhPyByjk_sK2w": "全网紧急！Linux Dirty Frag漏洞POC已流出！",
+    "https://mp.weixin.qq.com/s/hFRTMcbjYxNwqUe6VjFl9Q": "高危！新一代 “脏管道” 漏洞来袭，几乎所有 Linux 系统秒破 Root",
+    "https://mp.weixin.qq.com/s/e5MqEr-N4_sCFoSZ8LS7zA": "CVE-2026-31431 Copy Fail 通杀版 EXP：动态偏移计算实现任意 ELF 提权",
+    "https://mp.weixin.qq.com/s/dO4GnFKYIvG8kcSonTBuZA": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s/ryA8VOmNrhdc9VX9AIvgyQ": "【漏洞通告】Linux内核权限提升漏洞（Dirty Frag）"
 }
