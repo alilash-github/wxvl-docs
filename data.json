@@ -20662,5 +20662,15 @@
     "https://mp.weixin.qq.com/s/sSKlxEEtUpGAv7mJsbxhhw": "漏洞预警 | Linux kernel权限提升漏洞",
     "https://mp.weixin.qq.com/s/h2rifEOygRikkl8cI6CobQ": "数据破坏和内存中毒：Spring AI漏洞威胁LLM完整性",
     "https://mp.weixin.qq.com/s/PtGU9rZqhEgE0egOPtlAxQ": "Hermes的应用（五）：分析CopyFail（CVE-2026-31431）高危漏洞Poc",
-    "https://mp.weixin.qq.com/s/3oQPKjOsD6y4ud8bNS4NVg": "漏洞复现 | 东胜物流软件 OpSailingDateListHtmlGridSource.aspx 存在SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/3oQPKjOsD6y4ud8bNS4NVg": "漏洞复现 | 东胜物流软件 OpSailingDateListHtmlGridSource.aspx 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/-74SItKLMbSnjHR8YT3fhw": "一个存在21年没有CVE的漏洞：影响 PHP 自5.1至8.5.6全版本",
+    "https://mp.weixin.qq.com/s/A2IdTyvZJqIfws-H2-5u0A": "百易云 task.create.php SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/Yp0tQFX5R7q8aH-48JTuAA": "Adobe Experience Manager (AEM) Dispatcher 绕过完全指南 ($10,000+ 赏金)",
+    "https://mp.weixin.qq.com/s/w__uYCDzkNd9jOKgHlkYBg": "白泽成果分享：通过补丁语义分析让“依赖库漏洞传播”看得更准",
+    "https://mp.weixin.qq.com/s/FGH1HjaghckKB_PBTX6rXQ": "荒诞！0day激增，Pwn2Own停止接收漏洞，部分落选者公开漏洞",
+    "https://mp.weixin.qq.com/s/b3Gw6IYg8U-aIDrgNOUO1g": "React2Shell WAF 绕过实录：Vercel 花 100 万美元请黑客找漏洞",
+    "https://mp.weixin.qq.com/s/DNft9VVupw1p2e6m4ZZKLA": "常见未授权访问漏洞总结",
+    "https://mp.weixin.qq.com/s/s73DOAsSfgpVJOzV_yIPXw": "SecLens：面向角色的大模型安全漏洞检测评估",
+    "https://mp.weixin.qq.com/s/xZcnjxLwmHadjdgNzhLkng": "【漏洞复现】0day-雨诺调度客户端多项漏洞",
+    "https://mp.weixin.qq.com/s/atMxb0sUhE8I0k4mb5CIiQ": "让 AI 用 IDA 去找 IDA 自己的漏洞：一次 clang 参数注入的逆向之旅"
 }
