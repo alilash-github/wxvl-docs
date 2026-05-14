@@ -20777,5 +20777,16 @@
     "https://mp.weixin.qq.com/s/Xzsm48B5vPw5t7NWQkdf6g": "Pwn2Own 2026爆满遭拒，黑客集体公开0day报复厂商",
     "https://mp.weixin.qq.com/s/Dv295GjxO59yH3-dnbNVGA": "Node-RED EXEC 节点未授权命令执行漏洞复现",
     "https://mp.weixin.qq.com/s/d6_TABC7VLtbymCstbBftw": "CVE-2026-42232-n8n原型污染",
-    "https://mp.weixin.qq.com/s/OEVmd5wqkQG_6vbuWch0Pw": "漏洞多到\"溢出\"！Pwn2Own 2026被迫\"闭门拒客\""
+    "https://mp.weixin.qq.com/s/OEVmd5wqkQG_6vbuWch0Pw": "漏洞多到\"溢出\"！Pwn2Own 2026被迫\"闭门拒客\"",
+    "https://mp.weixin.qq.com/s/OoW7oG-z7h8JeYvTddbCSQ": "逻辑漏洞渗透",
+    "https://mp.weixin.qq.com/s/vn_ve-_IwNGcC3Zmy5ps8g": "Windows权限提升高级利用技术之任意文件读到SYSTEM权限代码执行",
+    "https://mp.weixin.qq.com/s/jr-bJQ9S_iXJysjSuWURYA": "青之LIMS BatchDownloadPdf接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/MUT_y00rR7l8gONL5Or1hw": "针对 FortiSandbox 和 FortiAuthenticator 的关键漏洞已修复",
+    "https://mp.weixin.qq.com/s/SGXV8jxzWWUfZs9Y2CV9sQ": "Google检测到首个AI生成的Zero-Day漏洞利用链",
+    "https://mp.weixin.qq.com/s/J4NqVdgzZYNId2I2-pUXuQ": "【严重】FlipperCode 插件曝出 CVE-2026-6433：未经身份验证即可通过 eval() 接管系统",
+    "https://mp.weixin.qq.com/s/yDz1UOysRV6zQ_qy7Gg7zg": "2026 年 5 月微软补丁星期二：修复 138 个漏洞，部分漏洞风险极高",
+    "https://mp.weixin.qq.com/s/fF7WsbsuLBIRVtNNH_p05g": "Pwn2Own被0day狂潮冲垮：一场暴露行业底层逻辑崩溃的安全危机",
+    "https://mp.weixin.qq.com/s/J_ucAitcGtpQb7O2_oDeCw": "神秘的微软漏洞发现者持续公开Windows 0day",
+    "https://mp.weixin.qq.com/s/tjX-8QPDglISqT-LTM6h7g": "Quest KACE SMA 漏洞 CVE-2025-32975：一个未修复工具漏洞，为 60 家机构敞开入侵大门",
+    "https://mp.weixin.qq.com/s/Q4eugNKoZ7ZdDdmx1PuFZA": "【高危AI漏洞预警】CVE-2026-42203｜LiteLLM AI Gateway 服务端模板注入远程代码执行（RCE）"
 }
