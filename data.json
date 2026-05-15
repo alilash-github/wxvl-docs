@@ -20855,5 +20855,11 @@
     "https://mp.weixin.qq.com/s/rF7Ho-CHeRmBcBygTCIilA": "Android零点击漏洞PoC公开，攻击者可远程获取Shell权限",
     "https://mp.weixin.qq.com/s/CQPAqdtJWyh7RKuRF7XgTg": "URL 编码的双重身份：SiYuan Tooltip XSS 与 Electron RCE 深度解析",
     "https://mp.weixin.qq.com/s/QtIoNRdUW6t4dQfpzr6OCA": "思科：注意已遭利用的满分 SD-WAN 新 0day",
-    "https://mp.weixin.qq.com/s/OnXI-rDV3sgZPW2qgLvLIw": "【安全圈】研究人员公布概念验证，利用 Windows BitLocker 零日漏洞可访问受保护驱动器"
+    "https://mp.weixin.qq.com/s/OnXI-rDV3sgZPW2qgLvLIw": "【安全圈】研究人员公布概念验证，利用 Windows BitLocker 零日漏洞可访问受保护驱动器",
+    "https://mp.weixin.qq.com/s/SIs8VZVo_vnjeVuBB7NGsA": "【已复现】Linux Kernel ptrace 本地权限提升漏洞(QVD-2026-26977)安全风险通告",
+    "https://mp.weixin.qq.com/s/jI4hCcuQWPqcm8IDslVQ0g": "实战逻辑漏洞（短信横向）利用",
+    "https://mp.weixin.qq.com/s/dxSq7GoaSDEWy5-6intj3Q": "【高危漏洞预警】Windows 存储空间控制器提权漏洞（CVE-2026-35415）",
+    "https://mp.weixin.qq.com/s/xzwFu7Khfq50FxnKMXme5Q": "【漏洞通告】NGINX ngx_http_rewrite_module堆缓冲区溢出漏洞(CVE-2026-42945)",
+    "https://mp.weixin.qq.com/s/7Tto5H7OxmpTQGkyyVfOuQ": "免杀分析 | PowerShell命令执行、检测与绕过",
+    "https://mp.weixin.qq.com/s/eAG0u5SFs6Bon_wt0OL_BA": "web安全之多端点条件竞争漏洞"
 }
