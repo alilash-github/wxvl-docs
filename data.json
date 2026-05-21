@@ -21053,5 +21053,6 @@
     "https://mp.weixin.qq.com/s/ix43LSr6BnMQNN5pqX4OfQ": "Cisco 安全工作负载中的关键漏洞威胁企业 API 安全",
     "https://mp.weixin.qq.com/s/rdsK-2f8_bZiY2Kqcs2JUA": "Gitea存在敏感信息泄露漏洞（用户名枚举） 附POC",
     "https://mp.weixin.qq.com/s/e-6ptPnBm28L0jT4Ll7qAA": "什么？？还有人不会AI漏洞挖掘",
-    "https://mp.weixin.qq.com/s/IFFeSo41KUSeOHRKk6n1MA": "Nginx 最新0day"
+    "https://mp.weixin.qq.com/s/IFFeSo41KUSeOHRKk6n1MA": "Nginx 最新0day",
+    "https://mp.weixin.qq.com/s/zR6hzGnnLan76IIw6AQa8g": "1day CVE-2026-5118 Divi 表单构建器 <= 5.1.2 | 通过角色注入进行未经身份验证的权限提升"
 }
