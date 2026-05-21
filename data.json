@@ -21043,5 +21043,9 @@
     "https://mp.weixin.qq.com/s/uIosTtJUGi62K6djAkrbXA": "【Microsoft Exchange Server OWA跨站脚本漏洞(CVE-2026-42897)】",
     "https://mp.weixin.qq.com/s/KREBr3NjeQ_OQZu_pyhQBw": "疑似 Nginx 新 0day RCE，无补丁，无上下文",
     "https://mp.weixin.qq.com/s/kBzkyyZr3KBDc387_7aMAQ": "【Open5GS 缓冲区错误漏洞(CVE-2026-8746)】",
-    "https://mp.weixin.qq.com/s/MD-uP0L73S0wGu6OvhgE9w": "SRC每日漏洞复现学习系列（第6篇）信息泄露漏洞+ 漏洞报告模板"
+    "https://mp.weixin.qq.com/s/MD-uP0L73S0wGu6OvhgE9w": "SRC每日漏洞复现学习系列（第6篇）信息泄露漏洞+ 漏洞报告模板",
+    "https://mp.weixin.qq.com/s/nkDKEFApysP_kNEa90pW3g": "初中学历、早年辍学，凭什么能霸榜 SRC，靠挖漏洞开上 BBA？",
+    "https://mp.weixin.qq.com/s/9lTmEDWuciP536ZOn_lSAA": "黑客利用 CVE-2026-26980 攻陷 Ghost CMS，大量站点沦为 ClickFix 攻击帮凶",
+    "https://mp.weixin.qq.com/s/s9hDc0HgZFDW_hxQSmUVSA": "Next.js 服务器端请求伪造漏洞 | CVE-2026-44578复现&研究",
+    "https://mp.weixin.qq.com/s/yN0FKhITnBCTwZj0dbRsyA": "【漏洞通告】Linux Kernel PinTheft 权限提升漏洞"
 }
