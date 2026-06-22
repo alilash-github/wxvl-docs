@@ -21268,5 +21268,16 @@
     "https://mp.weixin.qq.com/s/fHr-PUpAH6nuuZ0RvaribA": "漏洞分析超越Mythos还不够！微软真正厉害的是知道MDASH还差在哪",
     "https://mp.weixin.qq.com/s/dqxTTN52Gfmavr1XFEbyQA": "新型iPhone BootROM漏洞永久性破坏信任链，A12∕A13芯片无法修复",
     "https://mp.weixin.qq.com/s/79LActc4q36d1YYrwoWsOw": "一个月500万：一份最新报告揭示Anthropic的漏洞赏金真相",
-    "https://mp.weixin.qq.com/s/UUBaddhzpip1QwoIFY8x5w": "PPT 基于大模型Agent的BYOVD漏洞驱动挖掘实践"
+    "https://mp.weixin.qq.com/s/UUBaddhzpip1QwoIFY8x5w": "PPT 基于大模型Agent的BYOVD漏洞驱动挖掘实践",
+    "https://mp.weixin.qq.com/s/ka0Da4Wc6ZB57tppsPZXXQ": "FortiBleed 漏洞暴露一场全球性凭证喷洒攻击行动",
+    "https://mp.weixin.qq.com/s/18n9iv7uMZ40-WkW63-SnA": "别一条条看了！我把Burp流量全喂给AI，自动标出越权漏洞",
+    "https://mp.weixin.qq.com/s/NvJ2CrtzY178xBil_FEyZA": "某2026最新去水印小程序文件上传漏洞组合拳",
+    "https://mp.weixin.qq.com/s/ZFYqdHDc0lfVX7UiTy2kFg": "[漏洞]CVE-2025-2304：Camaleon CMS 大规模赋值漏洞导致权限提升",
+    "https://mp.weixin.qq.com/s/VmOFXqZWZWC8fHdI7gRsVw": "CVE-2026-54665：Apache NiFi 中的预认证主机头注入漏洞",
+    "https://mp.weixin.qq.com/s/FgJfXm5qaBIkTtycQ2qBUw": "usbliter8：苹果 A12∕A13 BootROM 硬件漏洞的完整利用路径",
+    "https://mp.weixin.qq.com/s/cNFfbZJhBcgJcd2SaE8SVg": "代码执行+模型被盗！盘点谷歌云Vertex AI存储桶抢注Bug的底层前沿姿势",
+    "https://mp.weixin.qq.com/s/MqklPO57H1Ff302leFQWSg": "CVE-2026-20253｜Splunk Enterprise PostgreSQL Sidecar未授权远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s/CCiFESTBkXIvMEfWeiVOiQ": "[安全周报] $1000 挖出 21 个 0day + 11.6 亿次撞库破 8.6 万台防火墙——2026 年漏洞的\"发现\"和\"利用\"，同周进入量产",
+    "https://mp.weixin.qq.com/s/TtZZ1Syu4yNeVb41FITaKg": "CNNVD通报OpenClaw多个安全漏洞",
+    "https://mp.weixin.qq.com/s/k8XNVtK4eAqIGCMe_FtkLg": "CVE-2026-48907｜Joomla JCE编辑器扩展未授权远程代码执行漏洞（POC）"
 }
