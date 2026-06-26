@@ -21371,5 +21371,14 @@
     "https://mp.weixin.qq.com/s/V64-jpebcR-PATm3S39NqQ": "上个厕所的功夫，漏洞修了？",
     "https://mp.weixin.qq.com/s/YEHgKpzekLwPqmYMQ55q5Q": "curl 发布史上规模最大的 CVE 公告，修复一个存续长达 25 年的漏洞",
     "https://mp.weixin.qq.com/s/RBu_DWh-K3vU5ZBz8GN7kA": "API配置泄露—浅析api端口配置漏洞及危害",
-    "https://mp.weixin.qq.com/s/kN6Jov5sk_NcJitOLa9UeQ": "【CVE-2026-20245】Cisco SD-WAN 零日利用分析"
+    "https://mp.weixin.qq.com/s/kN6Jov5sk_NcJitOLa9UeQ": "【CVE-2026-20245】Cisco SD-WAN 零日利用分析",
+    "https://mp.weixin.qq.com/s/CExnledO1G9sA0_jx44CtQ": "未授权到 SQL 子查询：深入分析 Tainacan REST API SQL 注入漏洞（CVE-2026-42740）",
+    "https://mp.weixin.qq.com/s/5psMTKFqTFdshtH_NIXyTw": "【已复现】漏洞通告 | Joomla Content Editor 未授权远程代码执行漏洞(CVE-2026-48907)",
+    "https://mp.weixin.qq.com/s/RrlwDTY1WRhGWCKDTd2G_w": "CISA：Lantronix EDS5000 严重漏洞正遭活跃利用",
+    "https://mp.weixin.qq.com/s/DddGHEw39sExURlFcOx9Sw": "Cisco CUCM SSRF 漏洞 PoC 公开后遭利用，可通过文件写入提权至 Root",
+    "https://mp.weixin.qq.com/s/4rLmpDaTPnegQYVkVhshOw": "Cisco SD-WAN 0day 被利用数月：边界控制面，不能只等补丁",
+    "https://mp.weixin.qq.com/s/QIFeJC7ddZRRnk0Gq0Pknw": "用AI挖了隐藏N年的组合拳漏洞",
+    "https://mp.weixin.qq.com/s/9iErEju-T1ae-WFe8v9MxA": "【已复现】漏洞通告 | Gogs 远程代码执行漏洞(CVE-2026-52813)",
+    "https://mp.weixin.qq.com/s/rRYWzM8Q1hioHG-i7bH80A": "curl 修了 18 个漏洞：一个“低危”mTLS 问题，为什么也值得排查",
+    "https://mp.weixin.qq.com/s/DAN_bR1UF8m3Ew6FbouGaQ": "cURL 严重漏洞已存在25年，影响300亿台设备"
 }
