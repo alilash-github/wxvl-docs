@@ -21572,5 +21572,10 @@
     "https://mp.weixin.qq.com/s/B_UzIVT-x2jPn5S7ok5_BA": "别再死磕漏洞了：你和顶尖黑客之间，可能只差了这一行API",
     "https://mp.weixin.qq.com/s/98G_M8Gx5XVON6jkPmim0A": "StoneFly 存储集中器漏洞可导致未经身份验证的 root 访问",
     "https://mp.weixin.qq.com/s/YB9TwhsRxgkdYfbkh7k6mQ": "Citrix NetScaler再曝高危漏洞：SAML解析缺陷可泄露服务器内存",
-    "https://mp.weixin.qq.com/s/GUOaO_xcVYwsPPnPW4txXQ": "新的 ChocoPoC RAT 通过虚假 PoC 漏洞利用存储库瞄准漏洞研究人员"
+    "https://mp.weixin.qq.com/s/GUOaO_xcVYwsPPnPW4txXQ": "新的 ChocoPoC RAT 通过虚假 PoC 漏洞利用存储库瞄准漏洞研究人员",
+    "https://mp.weixin.qq.com/s/ajj-jgIxb9QIViikNIK9Hw": "【已复现】Adobe ColdFusion 路径穿越漏洞(CVE-2026-48282)安全风险通告",
+    "https://mp.weixin.qq.com/s/0mQcoUGa_IL4s6D_eJMVww": "Adobe ColdFusion 多个漏洞细节已公开，可导致远程代码执行",
+    "https://mp.weixin.qq.com/s/ikzBT0BpPap4weQnDKCsKg": "安全热点周报：SimpleHelp 高危漏洞遭恶意利用，新型窃取木马借机投放",
+    "https://mp.weixin.qq.com/s/g9NUfMN9f2yOB2GWU-ZvvQ": "信息安全漏洞预警（2026年6月29日-2026年7月3日）",
+    "https://mp.weixin.qq.com/s/kA9sgBnLcko08dWljqAcgg": "【全网首发】Weax与Sorry勒索病毒席卷全国中小企业，深度还原全链路攻击，疑似黑客利用AI挖掘管家婆0day漏洞"
 }
