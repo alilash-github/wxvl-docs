@@ -21696,5 +21696,8 @@
     "https://mp.weixin.qq.com/s/dfei6JgD1QkIjZ7TjTYPVQ": "锐明技术Crocus系统 DeviceFileUpload 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s/ddprXb52aj7Oc56ojj874g": "当漏洞猎人成了猎物：ChocoPoC 木马借假 PoC 仓库精准攻陷安全研究员",
     "https://mp.weixin.qq.com/s/AIVaiUG0iVkSba7UB9rXpA": "【CVE-2026-46215】通过 DRM GEM change_handle 中的UAF功能获得ROOT权限",
-    "https://mp.weixin.qq.com/s/2OBKAihOEfR0x59zx8GUcw": "西软云XMS download2 任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s/2OBKAihOEfR0x59zx8GUcw": "西软云XMS download2 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/cmNeAPe6Bt7i2-nySnkZSw": "微软SharePoint Server再次被曝出存在可被远程利用的高危漏洞",
+    "https://mp.weixin.qq.com/s/DEvDjA7yaUSoFo8oTWb2vQ": "ThinkCMF漏洞全解析：从版本识别到Getshell的实战指南",
+    "https://mp.weixin.qq.com/s/Bi8JpkH7bBdU80Du5_Utkg": "潜伏逾十年的U-Boot启动漏洞曝光：数十亿设备面临隐蔽固件攻击"
 }
