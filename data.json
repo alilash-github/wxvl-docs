@@ -21789,5 +21789,7 @@
     "https://mp.weixin.qq.com/s/FiX2Pwt2f90bbapLGN6tUA": "ServiceNow 严重漏洞导致远程攻击者执行恶意代码",
     "https://mp.weixin.qq.com/s/VoyGVtkQDGZyGWRN1zAb0w": "本周漏洞速递｜9个高危漏洞预警+漏洞复现",
     "https://mp.weixin.qq.com/s/Uexad2PrV9u-XFqJ8Exm1A": "WinFsp 竞争条件漏洞允许攻击者获得 Windows 系统级访问权限",
-    "https://mp.weixin.qq.com/s/GuW07t2BbduJ5m3bDfdi9g": "雷神众测漏洞周报2026.7.6-2026.7.12"
+    "https://mp.weixin.qq.com/s/GuW07t2BbduJ5m3bDfdi9g": "雷神众测漏洞周报2026.7.6-2026.7.12",
+    "https://mp.weixin.qq.com/s/9GljM5jXaRDKFCxHLyMGPA": "AI漏洞挖掘：我的一些感想",
+    "https://mp.weixin.qq.com/s/ab5lAthSUHY5HsvfJkSYZQ": "【高危AI漏洞预警】n8n令牌验证绕过漏洞(CVE-2026-59208)"
 }
