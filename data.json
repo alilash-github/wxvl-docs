@@ -22286,5 +22286,14 @@
     "https://mp.weixin.qq.com/s/ZAJIk-inmt0496wYuo96Gg": "车联网漏洞挖掘方法及典型案例剖析",
     "https://mp.weixin.qq.com/s/XlGxJeKunR6f4u15Ispnrg": "Adobe 修复了 Magento 零日漏洞，该漏洞已被利用来部署 Rust 后门和 PHP Web Shell",
     "https://mp.weixin.qq.com/s/3Vhnvfkz_NPpaWmb2qBj_Q": "千万别忽视！这个逻辑漏洞可绕过管理员的审核",
-    "https://mp.weixin.qq.com/s/C7Z9cpxznj9o6Qu3rlwW4A": "智能网联汽车漏洞管理实践探索"
+    "https://mp.weixin.qq.com/s/C7Z9cpxznj9o6Qu3rlwW4A": "智能网联汽车漏洞管理实践探索",
+    "https://mp.weixin.qq.com/s/T4E-K_t60Uq4atJs1ze3HA": "在野被利用的 Linux 内核漏洞",
+    "https://mp.weixin.qq.com/s/eDnMc8yy5evaCSdP0gpuPw": "Pwn2Own 汽车赛事：漏洞、利用与经验总结",
+    "https://mp.weixin.qq.com/s/hIQVdHMTjdsssqkCOAOlOQ": "英国国家网络安全中心警告Check Point VPN 关键漏洞可能面临大规模利用",
+    "https://mp.weixin.qq.com/s/QcANtCnambV4lliJp2qHGQ": "(10分) CVE-2026-76460：思科Cisco ISE 认证绕过可拿root",
+    "https://mp.weixin.qq.com/s/SiHvJvwxiWq_0j6a3SXuBg": "强推一个自动化 SRC 漏洞挖掘系统",
+    "https://mp.weixin.qq.com/s/vbI1v1on0v7TZq6QKaT6hQ": "macOS公布提权漏洞CVE-2026-43783(POC已公开)",
+    "https://mp.weixin.qq.com/s/vfQrAeAenmdS6TXJWyn_1A": "Black Hat USA 2026：拖拉机ECU漏洞修复",
+    "https://mp.weixin.qq.com/s/z9TcJ95ZSTQLcsGvhBFbqw": "【漏洞分析】CVE-2026-81642：一行恶意 DNS 记录如何无接触拿下你的服务器",
+    "https://mp.weixin.qq.com/s/az7IGc_eGOXQ_tNKD0nM2Q": "Cisco ISE遭遇在野攻击，最高严重级别漏洞必须尽快修复"
 }
