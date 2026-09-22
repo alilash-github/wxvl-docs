@@ -22345,5 +22345,10 @@
     "https://mp.weixin.qq.com/s/g6fMza8ZJJRD-7c53QsiqQ": "带宽被陌生人跑满？用护卫神防盗链堵住漏洞",
     "https://mp.weixin.qq.com/s/zoQGl-d49r7iVQgt1rMKqQ": "震惊！这款漏洞检测框架让全球安全研究员为之疯狂",
     "https://mp.weixin.qq.com/s/10vv1x8zttBB00Y_TFxoMw": "积木报表 testConnection 远程命令执行漏洞(CVE-2025-66913)",
-    "https://mp.weixin.qq.com/s/EBu8Lt9R48-TVcqtgTLqzQ": "CVE-2026-80844：Linux 内核 IPv6 AH6 路由头重排越界漏洞"
+    "https://mp.weixin.qq.com/s/EBu8Lt9R48-TVcqtgTLqzQ": "CVE-2026-80844：Linux 内核 IPv6 AH6 路由头重排越界漏洞",
+    "https://mp.weixin.qq.com/s/8p2W2lV8qQ9BOm0YHUj6bw": "国内首部智能体安全漏洞治理蓝皮书发布！",
+    "https://mp.weixin.qq.com/s/Foo5ppNW4Zh_mfE88SvOtQ": "AI 能自主做安全研究吗？PortSwigger 用 700 个漏洞回答：能",
+    "https://mp.weixin.qq.com/s/6BCifmg618mrLMkG0cAbuQ": "（9.1分）CVE-2026-94098：Netcore 路由器固件升级接口命令注入",
+    "https://mp.weixin.qq.com/s/0nT8ofHbloTjdC8qwd6OEA": "AI辅助漏洞挖掘三种失真：边界、上下文、多 agent 同步",
+    "https://mp.weixin.qq.com/s/CnTuFt5WrsflpISYeSpv4A": "某公众号 RSS 平台存在未授权 RCE：从模板注入到内存马"
 }
