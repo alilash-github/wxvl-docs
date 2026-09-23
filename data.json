@@ -22435,5 +22435,6 @@
     "https://mp.weixin.qq.com/s/05KPBW6ey5iLPbJtd6iMKA": "大模型辅助补丁分析工作流：拆解路由器高危漏洞链",
     "https://mp.weixin.qq.com/s/4349Ypkl0r5B-uAHSTkgxg": "一款整合型漏洞扫描工具",
     "https://mp.weixin.qq.com/s/8qavYfv5gVIMRBi5uXZSeQ": "【复现】WordPress Comment2Shell零点击存储型XSS可导致RCE漏洞（CVE-2026-93485）",
-    "https://mp.weixin.qq.com/s/cy0ACr4tcYM0m1dpgFmRBA": "HITCON2017 babyfirst-revenge 看雪 CTF 复现"
+    "https://mp.weixin.qq.com/s/cy0ACr4tcYM0m1dpgFmRBA": "HITCON2017 babyfirst-revenge 看雪 CTF 复现",
+    "https://mp.weixin.qq.com/s/urTPXg_QLn7WRK3gLNlKcA": "基于docker的分布式afrog漏洞扫描"
 }
