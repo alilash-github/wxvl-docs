@@ -22436,5 +22436,18 @@
     "https://mp.weixin.qq.com/s/4349Ypkl0r5B-uAHSTkgxg": "一款整合型漏洞扫描工具",
     "https://mp.weixin.qq.com/s/8qavYfv5gVIMRBi5uXZSeQ": "【复现】WordPress Comment2Shell零点击存储型XSS可导致RCE漏洞（CVE-2026-93485）",
     "https://mp.weixin.qq.com/s/cy0ACr4tcYM0m1dpgFmRBA": "HITCON2017 babyfirst-revenge 看雪 CTF 复现",
-    "https://mp.weixin.qq.com/s/urTPXg_QLn7WRK3gLNlKcA": "基于docker的分布式afrog漏洞扫描"
+    "https://mp.weixin.qq.com/s/urTPXg_QLn7WRK3gLNlKcA": "基于docker的分布式afrog漏洞扫描",
+    "https://mp.weixin.qq.com/s/B-4mIbJaLD43to-YC5K_zA": "WordPress CVE-2026-87902 披露数小时即遭在野利用",
+    "https://mp.weixin.qq.com/s/PPeWk4v2iik9n_aBjPjavA": "Veeam Agent高危提权漏洞PoC曝光，低权限账号可获取SYSTEM权限",
+    "https://mp.weixin.qq.com/s/-qvR7k5QQUmpEnkCUu8p2w": "【热点安全风险】9月25日｜GitLab 修复两枚 9.9 分严重漏洞，已认证用户可在服务器上执行任意代码（CVE-2026-93577∕89078）",
+    "https://mp.weixin.qq.com/s/pupvMbksrpKnf80Q6M9LhQ": "《佳节不辍寻漏洞，望月亦守安全线》",
+    "https://mp.weixin.qq.com/s/yL2ySIE1mggItx1JnT7kgA": "TACACS+预认证远程代码执行漏洞攻击链",
+    "https://mp.weixin.qq.com/s/juoY0GoufUL25Bg0l-2MtQ": "同样的洞，有人拿高危有人拿中危：漏洞定级到底在争什么",
+    "https://mp.weixin.qq.com/s/Ql2-U1CZpnjuw7mCWZvp8Q": "OpenAI代理在获取公共数据的同时探测网站漏洞",
+    "https://mp.weixin.qq.com/s/akNdVjzkDP24Te4k7lgWKw": "开放图谱（OG）缓存对象未授权刷新与回溯性内容投毒漏洞",
+    "https://mp.weixin.qq.com/s/kXzgBKo_MsldktoBcwS0ug": "红帽披露OpenShift重要漏洞，可绕过PGP校验推送恶意镜像",
+    "https://mp.weixin.qq.com/s/MrDCEubeLPfOuuUGryDF9g": "没有漏洞，照样入侵：一个电话撬开医疗数据防线",
+    "https://mp.weixin.qq.com/s/XnQiwcBJ5vxSJQUtuirziQ": "Linux 内核 14 年老漏洞可提权 root、逃出容器",
+    "https://mp.weixin.qq.com/s/y73kRBf2aBsojhGDLw7ugA": "专题·原创 | 交通运输人工智能系统自身漏洞风险与安全防护",
+    "https://mp.weixin.qq.com/s/Yu3WP7UQCGPcvhaNZChpYw": "CVE-2025-34291深度解析：打开一个网页就丢了整个AI平台，MuddyWater APT的零交互攻击链"
 }
