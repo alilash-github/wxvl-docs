@@ -22488,5 +22488,8 @@
     "https://mp.weixin.qq.com/s/EtZpbr79VkFDfH5ofXgh0Q": "扫描器永远扫不出来的那一类洞：业务逻辑漏洞怎么挖",
     "https://mp.weixin.qq.com/s/O7Acs4jOm-eQNzPtwHBptg": "黑客禁用 EPP 并在受感染的 Windows 域中部署 Sliver 漏洞利用程序",
     "https://mp.weixin.qq.com/s/9nPkJwFP-wYUE6Eyw4lHuA": "漏洞挖掘案例-任意用户接管",
-    "https://mp.weixin.qq.com/s/YFcZQdiv5wUw70XOs-IrLQ": "【高危漏洞预警】VMware vCenter Syslog服务未授权目录遍历远程代码执行漏洞CVE-2026-59310"
+    "https://mp.weixin.qq.com/s/YFcZQdiv5wUw70XOs-IrLQ": "【高危漏洞预警】VMware vCenter Syslog服务未授权目录遍历远程代码执行漏洞CVE-2026-59310",
+    "https://mp.weixin.qq.com/s/AB8wg01t6OArnVomKWEj3A": "wvp-GB28181pro摄像头管理平台存在未授权访问漏洞  附POC",
+    "https://mp.weixin.qq.com/s/nn9GKFvr_YS4u2gMq-uySA": "AI 智能漏洞扫描插件 -- Zack-AI-Scanner",
+    "https://mp.weixin.qq.com/s/BPbH33uWJtg5uEwwWNNHJQ": "CNVD漏洞周报2026年第37期"
 }
