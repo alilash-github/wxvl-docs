@@ -22516,5 +22516,13 @@
     "https://mp.weixin.qq.com/s/iIAIbn3FqIYmFoAgEcQ_dg": "CNNVD关于Citrix NetScaler Application Delivery Controller 输入验证错误漏洞的通报",
     "https://mp.weixin.qq.com/s/i21LCFO7tFgTqYnKAejWGw": "优惠券叠加漏洞：很多大厂都踩坑的业务逻辑深坑",
     "https://mp.weixin.qq.com/s/d1XgBS8tWrqc22y1VO0fTA": "震惊安全圈！这款红队指纹神器让漏洞挖掘效率提升百倍",
-    "https://mp.weixin.qq.com/s/nPuYUu16stWALSSphLbVmA": "澳洲Quest公寓酒店因第三方漏洞致190万人信息泄露"
+    "https://mp.weixin.qq.com/s/nPuYUu16stWALSSphLbVmA": "澳洲Quest公寓酒店因第三方漏洞致190万人信息泄露",
+    "https://mp.weixin.qq.com/s/WWEGmOhvdJFK54IXpsgErg": "【安全圈】Cloudflare容器曝隔离漏洞：残余数据可跨租户窃取",
+    "https://mp.weixin.qq.com/s/Xwndbk_hbU33TRLII6Jcrg": "基于Ai自主代码审计的红队Agent，真正做到审计出漏洞",
+    "https://mp.weixin.qq.com/s/XZ4ujpiXd0wmXpDZ3NRzzQ": "CNNVD | 关于Citrix NetScaler Application Delivery Controller 输入验证错误漏洞的通报",
+    "https://mp.weixin.qq.com/s/9fZ9iseX1RcLHnTRq5gWrg": "漏洞挖掘和红队工作技能包 - Claude-BugHunter",
+    "https://mp.weixin.qq.com/s/l4pqUMxUwJ1dLXxFtpfxiA": "Oracle PeopleSoft漏洞遭大规模利用，攻击者绕过WAF植入WebShell",
+    "https://mp.weixin.qq.com/s/Kiw97NtqTjcjleTs_6jsvw": "【安全圈】Citrix曝双严重零日漏洞",
+    "https://mp.weixin.qq.com/s/mD7LZEmut965_sOjuXge_A": "Citrix NetScaler曝出0Day危机，两处RCE漏洞已遭实战利用",
+    "https://mp.weixin.qq.com/s/-xlPD7Z7tKip_pY_GrS0jw": "(10分) CVE-2026-101001：Netcore路由器未鉴权命令注入"
 }
