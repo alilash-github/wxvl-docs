@@ -22673,5 +22673,15 @@
     "https://mp.weixin.qq.com/s/zEL05AV6RRgPL0QyhhdozA": "从一条聊天消息到主播电脑被完全控制：漏洞连环套如何攻破OBS",
     "https://mp.weixin.qq.com/s/tMmTr68YpH51z4Z82IUIMg": "(9.1分) CVE-2026-87115：WordPress订餐插件任意文件删除",
     "https://mp.weixin.qq.com/s/Xsq06oIgIrrz1aF6fk4QAA": "记录几个edu漏洞挖掘思路",
-    "https://mp.weixin.qq.com/s/OpC7MEv9SK_ml7MMr5eJWA": "当前SRC漏洞挖掘现状"
+    "https://mp.weixin.qq.com/s/OpC7MEv9SK_ml7MMr5eJWA": "当前SRC漏洞挖掘现状",
+    "https://mp.weixin.qq.com/s/poCuL2gEOisWNpAX-gOPdw": "戴尔CSM曝两处高危漏洞，未授权攻击者可直接获取管理员权限",
+    "https://mp.weixin.qq.com/s/w4snj5AUdAivTBdf-dU1Kg": "Zammad两处0Day遭在野利用，漏洞链可远程拿下服务器root权限",
+    "https://mp.weixin.qq.com/s/BD_fHjefJltSvZxtoxtXJQ": "CVE-2026-97359 | HFS 2.x文件服务器未授权远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s/_x1pvunVsjvnwdD0yNq_Zg": "Google报告1-8月漏洞披露量翻倍，AI改变漏洞发现风险结构",
+    "https://mp.weixin.qq.com/s/LaMCw5vQ8L5VjeWTRFYCyQ": "已完成思考Apache HTTP Server 2.4.69 发布：修复 20 个安全漏洞",
+    "https://mp.weixin.qq.com/s/MvaQ1bnyAMc2Z12uAkec-Q": "拉黑机制的标记移除绕过漏洞",
+    "https://mp.weixin.qq.com/s/vRi0fJDvE-SDXb68i-AESQ": "CVE-2026-94545 | Next.js next∕og未授权远程代码执行漏洞（POC）",
+    "https://mp.weixin.qq.com/s/TmtWRvCeK26jcwyrbDAw8g": "腾讯重磅开源：业界首个项目级漏洞猎杀基准平台 VulnGym 震撼发布",
+    "https://mp.weixin.qq.com/s/VX69zb-SuYA9icOah8t6QQ": "据称黑客在某论坛出售 Fortinet FortiGate的 1day 漏洞",
+    "https://mp.weixin.qq.com/s/MeXEmluND2W59oOKChkCLQ": "上海鸿翼软件-电子文档管理系统 importNewBpmnDesignByIe 存在XStream反序列化漏洞"
 }
