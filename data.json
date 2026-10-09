@@ -22766,5 +22766,7 @@
     "https://mp.weixin.qq.com/s/JwRf2GJYQSJ5sm-jCCCXUw": "【漏洞通告】Lite-On O-RU存在命令注入漏洞(CVE-2026-77853)",
     "https://mp.weixin.qq.com/s/_2LrI-B2W39FSMPPlFXKmA": "CVE-2026-21589 Atlassian Jira 未认证文件读取：双冒号如何越过插件资源边界",
     "https://mp.weixin.qq.com/s/fBByXcgW69GOVGyeVUbWlw": "漏洞预警|新的虚拟机逃逸漏洞？VMware CVE-2026-59346 CVSS:9.3",
-    "https://mp.weixin.qq.com/s/YK6YHR2fivobuBKO2OgoUg": "MySQL 0DAY 漏洞 当客户端选择相信协议：mysqldump 的 SHOW TABLES 栈溢出"
+    "https://mp.weixin.qq.com/s/YK6YHR2fivobuBKO2OgoUg": "MySQL 0DAY 漏洞 当客户端选择相信协议：mysqldump 的 SHOW TABLES 栈溢出",
+    "https://mp.weixin.qq.com/s/Tw8cihqaBe5QGMGSh6LS4g": "报名进行时｜首届全球具身智能应用创新挑战赛·漏洞挖掘挑战赛诚邀参赛",
+    "https://mp.weixin.qq.com/s/7B2mTubNYV6v7BuPiaPNYw": "【热点安全风险】10月9日｜Cisco Catalyst SD-WAN Manager 认证绕过遭在野利用 ，攻击者可取得管理员权限（CVE-2026-76504）"
 }
