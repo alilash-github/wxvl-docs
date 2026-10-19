@@ -23192,5 +23192,7 @@
     "https://mp.weixin.qq.com/s/k_vdXgNabCTaAfSeWVXn3A": "畅捷通T+ GLSyncService.asmx接口存在任意文件读取漏洞  附POC",
     "https://mp.weixin.qq.com/s/Dvp_bnYOD1IRH6dBHGxXWg": "【安全圈】连密码都不用！博通WiFi曝0day隔空秒拿ROOT",
     "https://mp.weixin.qq.com/s/OoREt7X4eYUex8UplJKhhw": "每周网安资讯（10.13-10.19）| VMware vCenter Server信息泄露高危漏洞",
-    "https://mp.weixin.qq.com/s/THzZBUrz6_v7EghdXFiYfg": "比特币早期客户端被成功复现: 从编译器到WinRAR，逐字节还原中本聪的发布流程"
+    "https://mp.weixin.qq.com/s/THzZBUrz6_v7EghdXFiYfg": "比特币早期客户端被成功复现: 从编译器到WinRAR，逐字节还原中本聪的发布流程",
+    "https://mp.weixin.qq.com/s/ATmhAQ604-sz7bc4v_hJZQ": "已复现 | Windows Shell 0day漏洞",
+    "https://mp.weixin.qq.com/s/gROVYJlbaUS0XI30QbXPrg": "WordPress 的严重漏洞允许攻击者在无需身份验证的情况下执行远程代码"
 }
