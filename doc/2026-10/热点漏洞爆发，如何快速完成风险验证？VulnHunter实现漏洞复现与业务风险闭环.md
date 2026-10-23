@@ -1,6 +1,5 @@
 #  热点漏洞爆发，如何快速完成风险验证？VulnHunter实现漏洞复现与业务风险闭环  
-原创 AI基础设施构建者
-                    AI基础设施构建者  云起无垠   2026-10-23 07:39  
+ 安全极客   2026-10-23 07:46  
   
 ![](https://mmbiz.qpic.cn/mmbiz_gif/4vD467VsKgIyZ1VBWSEZ5D9CyVs2zCHdLWiaMbScsTP8jMicqnXH6icLycxZot7Q1CTPogdBQ0CduHPiaR62fe4I2g/640?wx_fmt=gif "")  
   
@@ -91,8 +90,10 @@ https://github.com/Clouditera/VulnHunter
   
 联系微信号：EasonXiaY，免费部署试用。  
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/39bwlg7QlUOIRtduA27JQTvUqDtGhe4ZZZXj4Npl0gnxFvMbwqCuEaWHa09BAhhZLt3w4iceTn7qVt1WLqbKwibqicC87sqts9ypaFbjucrJyA/640?wx_fmt=gif&from=appmsg&wxfrom=5&wx_lazy=1&retryload=1&tp=webp#imgIndex=10 "")  
+-End-  
   
+![图片](https://mmbiz.qpic.cn/mmbiz_png/vWuBpewLia8R7Rm0KL55HCcIiasO8JJ7IibXzYxx3losWVb2eddxdClACzWxWtQLwl0wkAl1ZLibcESVWvx5dCeibtQ/640?wx_fmt=other&wxfrom=5&wx_lazy=1&retryload=1&tp=webp#imgIndex=2 "")  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/39bwlg7QlUNdnII6JMsWTiaoUBcga46DqiaSibG3bHxCZrjqiaSwKIC4oMicv4phJdcZXfNVJU30SCMbB8JIdHmZ8FF8OAwZmDOGvkibUJIVydq2g/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=7 "")  
+![图片](https://mmbiz.qpic.cn/mmbiz_png/vWuBpewLia8QRqLMRicZIN6VJg0ue41W1HVSmDpDqkj86j5SNicNE3X5KkPgcdv1ZmxM7FXrFUdkBes8dpos7d27w/640?wx_fmt=other&wxfrom=5&wx_lazy=1&retryload=1&tp=webp#imgIndex=4 "")  
+  
   
