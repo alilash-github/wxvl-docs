@@ -23811,5 +23811,13 @@
     "https://mp.weixin.qq.com/s/7Z2bFZaewpNNryGyV5_dFQ": "Linux Kernel IPv4 TCP 释放后重用漏洞(CVE-2026-98432)",
     "https://mp.weixin.qq.com/s/UmhuX1-JReN4-hK7_d0ozQ": "一条聊天消息接管整台电话交换机：FreeSWITCH 9.8分命令执行（CVE-2026-116779，附PoC）",
     "https://mp.weixin.qq.com/s/85s0kMy4rQ6KDM5TtsTv_A": "Agent安全——记一次XTHP漏洞本地复现",
-    "https://mp.weixin.qq.com/s/7j8BxF634l9Kcub4pxCq8w": "微软Authenticator翻车实录：我是如何利用0权限App窃取全量Token的 (CVE-2026-80097)"
+    "https://mp.weixin.qq.com/s/7j8BxF634l9Kcub4pxCq8w": "微软Authenticator翻车实录：我是如何利用0权限App窃取全量Token的 (CVE-2026-80097)",
+    "https://mp.weixin.qq.com/s/PEWjFh9smIJY9TUr7D1XKw": "某WordPress付费插件严重漏洞在野攻击分析以及漏洞复现",
+    "https://mp.weixin.qq.com/s/T4xPgrMzdH5NKGO6SfzbGg": "固件盲区：16年漏洞绕过安全启动 CVE-2026-97631",
+    "https://mp.weixin.qq.com/s/WYuCemT8VrsVmlrtwmeqAQ": "【安全圈】黑客利用 Cisco SD-WAN 漏洞部署定制的 KeyDrift 恶意软件",
+    "https://mp.weixin.qq.com/s/oL0uh5iBK_4lht5pZXB6JA": "AI 智能体漏洞挖掘：让 Agent 跑通一个 SQLi 到 RCE 的复盘",
+    "https://mp.weixin.qq.com/s/3ehE5_CoR0g94XHyubhQ7g": "Adobe Commerce PolyShell 攻击导致数百家商店数据泄露，爆出了利用 Brotli 漏洞的事件",
+    "https://mp.weixin.qq.com/s/ya9mS0NgRFZeToRUaxwvyw": "11月1日高危漏洞汇总：6 个在野利用、32 个紧急",
+    "https://mp.weixin.qq.com/s/xY7k3j9k9K5HSxt9NeBLzQ": "AI赋能漏洞挖掘案例分享1-某系统从sql到登录绕过再到后台getshell",
+    "https://mp.weixin.qq.com/s/AJL1jo4Vu4_efBCy2nF5EQ": "【安全圈】24小时内超6万次攻击针对WordPress RCE漏洞，更新过程无需登录就可以利用"
 }
