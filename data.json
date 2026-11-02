@@ -23862,5 +23862,8 @@
     "https://mp.weixin.qq.com/s/cBtb781cAsZ6x-wxDrwF5Q": "AI挖洞实战 13 | Workbuddy+Skill技能库，存储型XSS漏洞实战",
     "https://mp.weixin.qq.com/s/vDVDHcW0PcSA0-eQmP-d_g": "深科特LEAN MES系统 DownLoad.aspx 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s/MLokWVgSroIc7sXOMSVbjA": "一键搭建上万条漏洞复现文档的私有 Wiki，这个开源项目把安全研究效率直接拉满",
-    "https://mp.weixin.qq.com/s/W4VypBQ9eDjwxeFkg3ZulA": "雷神众测漏洞周报2026.10.26-2026.11.1"
+    "https://mp.weixin.qq.com/s/W4VypBQ9eDjwxeFkg3ZulA": "雷神众测漏洞周报2026.10.26-2026.11.1",
+    "https://mp.weixin.qq.com/s/Z3wDbIy-nBlAYJe5Z3cdWw": "金蝶EAS WSExportPersonFacade接口存在敏感信息泄露  附POC",
+    "https://mp.weixin.qq.com/s/TAdH62XGhi0AvY2buDcJtw": "ArgusAI自主 SRC 挖洞Agent 多智能体协同代理抓包 + 浏览器自动化请求重放，提升高危漏洞产出效率",
+    "https://mp.weixin.qq.com/s/oxrWRkTpOO6tZimTUm9l7w": "CVE-2026-98432 深度分析：Linux 内核 IPv4 TCP 竞态 Use-After-Free 漏洞全景解析"
 }
