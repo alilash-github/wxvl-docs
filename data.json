@@ -23882,5 +23882,11 @@
     "https://mp.weixin.qq.com/s/Zp0L96g_zsmEgDW_o8FLGg": "从httpfileserver RCE漏洞到msf后渗透提权，靶机练习之optimum",
     "https://mp.weixin.qq.com/s/qNDmWJxCdT0x7VfOMf1rGw": "【安全圈】被控端反杀主控端！TeamViewer爆8.8分堆溢出RCE",
     "https://mp.weixin.qq.com/s/SGNQjafmS7ovBG2CZTibZQ": "【已复现】漏洞通告 | Linux Kernel IPv4 TCP 释放后重用漏洞(CVE-2026-98432)",
-    "https://mp.weixin.qq.com/s/Kmfsw_YEyjZyQzlpjNCExQ": "CVE-2026-49881 漏洞复现"
+    "https://mp.weixin.qq.com/s/Kmfsw_YEyjZyQzlpjNCExQ": "CVE-2026-49881 漏洞复现",
+    "https://mp.weixin.qq.com/s/gzSiLI7zFYgQyQJ1dG_-oQ": "西门子IoT2050满分高危漏洞遭活跃利用",
+    "https://mp.weixin.qq.com/s/OzGwteQfneATDpM4G94MJQ": "【实战】逻辑漏洞连招：验证码复用与 Token 预测的致命组合",
+    "https://mp.weixin.qq.com/s/-0Pn0eH0HuStuYqXHk18Sw": "【实战】逻辑漏洞核弹：并发抢券、0元购与支付回调伪造",
+    "https://mp.weixin.qq.com/s/kuH-VtH9wO3LGujZFXmhWg": "CNVD漏洞周报2026年第43期",
+    "https://mp.weixin.qq.com/s/VeoTywNj3fbtc-7NYGMsrg": "【实战】直捣黄龙：泛微∕致远∕用友 OA 历史漏洞组合拳与提权",
+    "https://mp.weixin.qq.com/s/jI9TrUVAuvx6T9BECY9y3Q": "发现异常不等于发现漏洞：如何建立完整的安全证据链？"
 }
