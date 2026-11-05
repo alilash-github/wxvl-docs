@@ -23937,5 +23937,6 @@
     "https://mp.weixin.qq.com/s/_gyyQgV-h93wFizo0u-6zg": "Barracuda 修复两个漏洞，可绕过授权和获取 root 权限",
     "https://mp.weixin.qq.com/s/9mHUzCHtluzgOwOTIZC3FA": "验签之后，包被换了：Debian∕Ubuntu APT 高危漏洞与两分钟自查",
     "https://mp.weixin.qq.com/s/Qmfqkmy-b8tDqC_-oOKVnA": "【重磅】泛微 e-cology 漏洞利用全路径：前台未授权 RCE 与一键综合利用",
-    "https://mp.weixin.qq.com/s/hwfpPgQkBZMmJMOJ65Vs2A": "AiPy 首获 Microsoft 官方致谢，Windows 内核 Win32k 漏洞获 CVE 编号"
+    "https://mp.weixin.qq.com/s/hwfpPgQkBZMmJMOJ65Vs2A": "AiPy 首获 Microsoft 官方致谢，Windows 内核 Win32k 漏洞获 CVE 编号",
+    "https://mp.weixin.qq.com/s/6OD1diTo_RgE9Kfs0DyoEg": "【已复现】Synology DSM 身份认证绕过漏洞(CVE-2026-13639)安全风险通告"
 }
