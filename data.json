@@ -24329,5 +24329,12 @@
     "https://mp.weixin.qq.com/s/53HpyONNagvP7YOuqowY2Q": "【风险提示-已复现】天融信关于OpenJDK Base64解码器远程代码执行漏洞CVE-2026-114938(Java4Shell)的风险提示",
     "https://mp.weixin.qq.com/s/mq19PQb2QYfLUXlJ4To3cA": "高危预警：CVE-2026-90436 Apache Axis 1.x 未授权 RCE，Confluence Data Center 已在野被利用",
     "https://mp.weixin.qq.com/s/ol7lzuFPOABh0eIqOZKwpw": "【已复现】OpenJDK Base64 解码器远程代码执行漏洞(CVE-2026-114938)安全风险通告",
-    "https://mp.weixin.qq.com/s/_z9B79zCunkP5V4NRIsh5w": "Tomcat常见的漏洞汇总"
+    "https://mp.weixin.qq.com/s/_z9B79zCunkP5V4NRIsh5w": "Tomcat常见的漏洞汇总",
+    "https://mp.weixin.qq.com/s/X1k0diFbO_D0oAWmrEODmg": "漏洞复现 | 云时空社会化商业ERP系统 validateLoginName 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/ZqIZGDrDlX6oBQ4-KE8VVg": "nginx2root漏洞排查",
+    "https://mp.weixin.qq.com/s/Fq_teDp41s4gh4g0zGWyzg": "【安全圈】Linux KVM曝高危逃逸漏洞：虚机跨租户直读宿主机127GB内存",
+    "https://mp.weixin.qq.com/s/QJlf0V4RLCLUhacmJZUhrg": "Apache Tomcat 曝出严重漏洞：远程攻击者可未经身份验证加入受信任服务器集群",
+    "https://mp.weixin.qq.com/s/TjeR1kiAYCDfHzHNMxO-zQ": "快普M6 wsAutoComplete.asmx接口存在SQL注入漏洞  附POC",
+    "https://mp.weixin.qq.com/s/fqrK-7-pTbXLutaeXAd9Hw": "Java4Shell（CVE-2026-114938）漏洞安全响应指南",
+    "https://mp.weixin.qq.com/s/97Dlff8--M9xJTLgSaz2-g": "【安全圈】黑客部署自主AI智能体：11分钟自挖0day攻陷服务器夺Root"
 }
